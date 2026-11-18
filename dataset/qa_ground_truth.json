@@ -1,0 +1,2506 @@
+{
+  "corpus": "Northwind Consolidated Holdings synthetic corpus",
+  "pair_count": 250,
+  "pairs": [
+    {
+      "id": "HR-POL-001-QA01",
+      "question": "How many on-site days per week are required of a hybrid Northwind employee?",
+      "answer": "Two days per week minimum, measured as a rolling four-week average.",
+      "evidence": "Hybrid employees work on site a minimum of two days per week, measured as a rolling four-week average",
+      "source_id": "HR-POL-001",
+      "source_file": "pdfs/HR-POL-001-remote-and-hybrid-work-policy.pdf",
+      "source_title": "Remote and Hybrid Work Policy",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-POL-001-QA02",
+      "question": "What one-off home office stipend does a fully remote employee receive?",
+      "answer": "$1,200, refreshed every 24 months.",
+      "evidence": "$1,200 one-off, refreshed every 24 months",
+      "source_id": "HR-POL-001",
+      "source_file": "pdfs/HR-POL-001-remote-and-hybrid-work-policy.pdf",
+      "source_title": "Remote and Hybrid Work Policy",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-POL-001-QA03",
+      "question": "Which roles must approve a change to Fully Remote work mode?",
+      "answer": "The department head and the VP of People Operations.",
+      "evidence": "Department head and VP of People Operations",
+      "source_id": "HR-POL-001",
+      "source_file": "pdfs/HR-POL-001-remote-and-hybrid-work-policy.pdf",
+      "source_title": "Remote and Hybrid Work Policy",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-POL-001-QA04",
+      "question": "How many days per year may a remote employee work from another country without clearance?",
+      "answer": "Up to 30 calendar days per rolling twelve months.",
+      "evidence": "up to 30 calendar days per rolling twelve months without clearance",
+      "source_id": "HR-POL-001",
+      "source_file": "pdfs/HR-POL-001-remote-and-hybrid-work-policy.pdf",
+      "source_title": "Remote and Hybrid Work Policy",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-POL-001-QA05",
+      "question": "What are the default anchor days for the Columbus office?",
+      "answer": "Tuesday and Thursday.",
+      "evidence": "The default anchor days for Northwind Columbus are Tuesday and Thursday",
+      "source_id": "HR-POL-001",
+      "source_file": "pdfs/HR-POL-001-remote-and-hybrid-work-policy.pdf",
+      "source_title": "Remote and Hybrid Work Policy",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-004-QA01",
+      "question": "When do annual goals have to be locked?",
+      "answer": "By 31 January.",
+      "evidence": "Goals are set in January and locked by 31 January",
+      "source_id": "HR-STD-004",
+      "source_file": "pdfs/HR-STD-004-performance-management-standard.pdf",
+      "source_title": "Performance Management Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-004-QA02",
+      "question": "What merit increase range is guided for a rating of Outstanding?",
+      "answer": "8 to 12 percent.",
+      "evidence": "Outstanding ... 8-12%",
+      "source_id": "HR-STD-004",
+      "source_file": "pdfs/HR-STD-004-performance-management-standard.pdf",
+      "source_title": "Performance Management Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-004-QA03",
+      "question": "How long does a default performance improvement plan run?",
+      "answer": "60 days, or 90 days for roles with long feedback loops.",
+      "evidence": "A PIP runs 60 days by default and 90 days for roles with long feedback loops",
+      "source_id": "HR-STD-004",
+      "source_file": "pdfs/HR-STD-004-performance-management-standard.pdf",
+      "source_title": "Performance Management Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-004-QA04",
+      "question": "Does Northwind use a forced distribution for ratings?",
+      "answer": "No. Calibration guidance suggests approximate percentages, but no forced curve is mandated.",
+      "evidence": "Calibration exists to remove drift between managers, not to enforce a curve. Northwind does not mandate a forced distribution.",
+      "source_id": "HR-STD-004",
+      "source_file": "pdfs/HR-STD-004-performance-management-standard.pdf",
+      "source_title": "Performance Management Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-004-QA05",
+      "question": "How many goals does each employee carry?",
+      "answer": "Three to five goals, with at least one learning goal and at most one maintenance goal.",
+      "evidence": "Each employee carries three to five goals",
+      "source_id": "HR-STD-004",
+      "source_file": "pdfs/HR-STD-004-performance-management-standard.pdf",
+      "source_title": "Performance Management Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-007-QA01",
+      "question": "How many FlexTime hours does an employee with 4 years of service accrue per year?",
+      "answer": "156 hours, or 19.5 days, across 26 pay periods.",
+      "evidence": "3-6 years | 6.0 hours | 156 hours (19.5 days)",
+      "source_id": "HR-STD-007",
+      "source_file": "pdfs/HR-STD-007-leave-of-absence-and-time-off-standard.pdf",
+      "source_title": "Leave of Absence and Time Off Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-007-QA02",
+      "question": "How many weeks of fully paid parental leave does Northwind offer?",
+      "answer": "20 fully paid weeks, gender-neutral, after 12 months of service.",
+      "evidence": "20 weeks of fully paid parental leave",
+      "source_id": "HR-STD-007",
+      "source_file": "pdfs/HR-STD-007-leave-of-absence-and-time-off-standard.pdf",
+      "source_title": "Leave of Absence and Time Off Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-007-QA03",
+      "question": "How many paid bereavement days for an immediate family member?",
+      "answer": "5 paid days for an immediate family member, 2 paid days for anyone else the employee considers family.",
+      "evidence": "5 paid days for the death of an immediate family member and 2 paid days for any other person",
+      "source_id": "HR-STD-007",
+      "source_file": "pdfs/HR-STD-007-leave-of-absence-and-time-off-standard.pdf",
+      "source_title": "Leave of Absence and Time Off Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-007-QA04",
+      "question": "In which US states is unused FlexTime paid out on separation?",
+      "answer": "Colorado, California, Illinois, and Massachusetts.",
+      "evidence": "which today means Colorado, California, Illinois, and Massachusetts",
+      "source_id": "HR-STD-007",
+      "source_file": "pdfs/HR-STD-007-leave-of-absence-and-time-off-standard.pdf",
+      "source_title": "Leave of Absence and Time Off Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-007-QA05",
+      "question": "What is the maximum size of a quarterly team blackout window?",
+      "answer": "Ten business days per quarter.",
+      "evidence": "may not exceed ten business days per quarter",
+      "source_id": "HR-STD-007",
+      "source_file": "pdfs/HR-STD-007-leave-of-absence-and-time-off-standard.pdf",
+      "source_title": "Leave of Absence and Time Off Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-009-QA01",
+      "question": "How many reporting channels exist for conduct concerns at Northwind?",
+      "answer": "Four: line manager, HR Business Partner, the third-party Ethics Line, and Legal.",
+      "evidence": "There are four reporting channels",
+      "source_id": "HR-STD-009",
+      "source_file": "pdfs/HR-STD-009-workplace-conduct-and-anti-harassment-standard.pdf",
+      "source_title": "Workplace Conduct and Anti-Harassment Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-009-QA02",
+      "question": "What is the target duration of a formal conduct investigation?",
+      "answer": "30 business days from intake to written outcome.",
+      "evidence": "Formal investigations have a target of 30 business days from intake to written outcome",
+      "source_id": "HR-STD-009",
+      "source_file": "pdfs/HR-STD-009-workplace-conduct-and-anti-harassment-standard.pdf",
+      "source_title": "Workplace Conduct and Anti-Harassment Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-009-QA03",
+      "question": "Which channel accepts anonymous reports?",
+      "answer": "The Ethics Line, operated by an independent third party.",
+      "evidence": "the Ethics Line at ethics.northwind.example which is operated by an independent third party and accepts anonymous reports",
+      "source_id": "HR-STD-009",
+      "source_file": "pdfs/HR-STD-009-workplace-conduct-and-anti-harassment-standard.pdf",
+      "source_title": "Workplace Conduct and Anti-Harassment Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-009-QA04",
+      "question": "What standard of proof applies in a conduct investigation?",
+      "answer": "The balance of probabilities.",
+      "evidence": "The evidentiary standard is the balance of probabilities",
+      "source_id": "HR-STD-009",
+      "source_file": "pdfs/HR-STD-009-workplace-conduct-and-anti-harassment-standard.pdf",
+      "source_title": "Workplace Conduct and Anti-Harassment Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-STD-009-QA05",
+      "question": "How fast must an alleged retaliation claim be assessed?",
+      "answer": "On an expedited basis within 10 business days.",
+      "evidence": "assesses that allegation on an expedited basis within 10 business days",
+      "source_id": "HR-STD-009",
+      "source_file": "pdfs/HR-STD-009-workplace-conduct-and-anti-harassment-standard.pdf",
+      "source_title": "Workplace Conduct and Anti-Harassment Standard",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-HBK-011-QA01",
+      "question": "What is the maximum duration of a short-term assignment before a transfer is mandatory?",
+      "answer": "180 days.",
+      "evidence": "up to 180 days, after which a transfer is mandatory",
+      "source_id": "HR-HBK-011",
+      "source_file": "pdfs/HR-HBK-011-global-mobility-handbook.pdf",
+      "source_title": "Global Mobility Handbook",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-HBK-011-QA02",
+      "question": "How much settling-in payment does a Tier 2 relocation include?",
+      "answer": "A one-off payment of 1.5 months of gross base salary.",
+      "evidence": "a one-off settling-in payment of 1.5 months of gross base salary",
+      "source_id": "HR-HBK-011",
+      "source_file": "pdfs/HR-HBK-011-global-mobility-handbook.pdf",
+      "source_title": "Global Mobility Handbook",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-HBK-011-QA03",
+      "question": "Which provider calculates Northwind's hypothetical tax?",
+      "answer": "Mercer.",
+      "evidence": "calculated by the assigned provider, currently Mercer",
+      "source_id": "HR-HBK-011",
+      "source_file": "pdfs/HR-HBK-011-global-mobility-handbook.pdf",
+      "source_title": "Global Mobility Handbook",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-HBK-011-QA04",
+      "question": "What is the planning estimate for a UK Skilled Worker visa?",
+      "answer": "Roughly 6 weeks, including certificate of sponsorship.",
+      "evidence": "the UK Skilled Worker route at roughly 6 weeks including certificate of sponsorship",
+      "source_id": "HR-HBK-011",
+      "source_file": "pdfs/HR-HBK-011-global-mobility-handbook.pdf",
+      "source_title": "Global Mobility Handbook",
+      "category": "Human Resources"
+    },
+    {
+      "id": "HR-HBK-011-QA05",
+      "question": "Above what travel threshold does the Mobility handbook apply instead of the Travel standard?",
+      "answer": "30 days per rolling twelve months in any one country.",
+      "evidence": "Ordinary business travel below 30 days per rolling twelve months in any one country is handled by the Travel team under TRV-STD-002",
+      "source_id": "HR-HBK-011",
+      "source_file": "pdfs/HR-HBK-011-global-mobility-handbook.pdf",
+      "source_title": "Global Mobility Handbook",
+      "category": "Human Resources"
+    },
+    {
+      "id": "SEC-POL-002-QA01",
+      "question": "What is the minimum password length for a Tier 3 system holding customer data?",
+      "answer": "18 characters, with hardware key MFA and a 30 minute idle session limit.",
+      "evidence": "Tier 3 (customer or production data) | 18 characters | Hardware key only | 30 minutes idle",
+      "source_id": "SEC-POL-002",
+      "source_file": "pdfs/SEC-POL-002-acceptable-use-of-information-systems-policy.pdf",
+      "source_title": "Acceptable Use of Information Systems Policy",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-POL-002-QA02",
+      "question": "Which AI tools are approved for use with Northwind data?",
+      "answer": "Only the approved enterprise gateways: the Microsoft Copilot tenant and the internal Model Gateway.",
+      "evidence": "approved enterprise gateways, which are the Microsoft Copilot tenant and the internal Model Gateway",
+      "source_id": "SEC-POL-002",
+      "source_file": "pdfs/SEC-POL-002-acceptable-use-of-information-systems-policy.pdf",
+      "source_title": "Acceptable Use of Information Systems Policy",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-POL-002-QA03",
+      "question": "How long may an external file share link remain valid?",
+      "answer": "No more than 14 days, and it must name a recipient rather than be a public link for customer data.",
+      "evidence": "with an expiry of no more than 14 days",
+      "source_id": "SEC-POL-002",
+      "source_file": "pdfs/SEC-POL-002-acceptable-use-of-information-systems-policy.pdf",
+      "source_title": "Acceptable Use of Information Systems Policy",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-POL-002-QA04",
+      "question": "Where must passwords be stored?",
+      "answer": "Only in the approved password vault, Bitwarden Teams.",
+      "evidence": "stored only in the approved password vault, Bitwarden Teams",
+      "source_id": "SEC-POL-002",
+      "source_file": "pdfs/SEC-POL-002-acceptable-use-of-information-systems-policy.pdf",
+      "source_title": "Acceptable Use of Information Systems Policy",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-POL-002-QA05",
+      "question": "How long do approved removable media exceptions last?",
+      "answer": "30 days.",
+      "evidence": "expire after 30 days",
+      "source_id": "SEC-POL-002",
+      "source_file": "pdfs/SEC-POL-002-acceptable-use-of-information-systems-policy.pdf",
+      "source_title": "Acceptable Use of Information Systems Policy",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-005-QA01",
+      "question": "What is the acknowledgement target for a SEV-1 security incident?",
+      "answer": "15 minutes.",
+      "evidence": "SEV-1 Critical ... 15 minutes",
+      "source_id": "SEC-STD-005",
+      "source_file": "pdfs/SEC-STD-005-incident-response-standard.pdf",
+      "source_title": "Incident Response Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-005-QA02",
+      "question": "How long is evidence retained in the Northwind evidence bucket?",
+      "answer": "Seven years, write-once, restricted to Forensics and Legal.",
+      "evidence": "The evidence bucket is write-once with a seven year retention",
+      "source_id": "SEC-STD-005",
+      "source_file": "pdfs/SEC-STD-005-incident-response-standard.pdf",
+      "source_title": "Incident Response Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-005-QA03",
+      "question": "Within how many hours must a personal data breach be reported to the supervisory authority?",
+      "answer": "72 hours of becoming aware.",
+      "evidence": "notify the lead supervisory authority within 72 hours of becoming aware",
+      "source_id": "SEC-STD-005",
+      "source_file": "pdfs/SEC-STD-005-incident-response-standard.pdf",
+      "source_title": "Incident Response Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-005-QA04",
+      "question": "Which role is the sole channel to customers and regulators during an incident?",
+      "answer": "The Communications Lead.",
+      "evidence": "The Communications Lead is the single channel to the business, to customers, and to regulators",
+      "source_id": "SEC-STD-005",
+      "source_file": "pdfs/SEC-STD-005-incident-response-standard.pdf",
+      "source_title": "Incident Response Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-005-QA05",
+      "question": "How long must enhanced monitoring run during the recovery phase?",
+      "answer": "At least 72 hours.",
+      "evidence": "enhanced monitoring for at least 72 hours",
+      "source_id": "SEC-STD-005",
+      "source_file": "pdfs/SEC-STD-005-incident-response-standard.pdf",
+      "source_title": "Incident Response Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-008-QA01",
+      "question": "What is the remediation SLA for a Critical vulnerability in production?",
+      "answer": "72 hours.",
+      "evidence": "Critical | 9.0-10.0 | 72 hours",
+      "source_id": "SEC-STD-008",
+      "source_file": "pdfs/SEC-STD-008-secure-software-development-lifecycle-standard.pdf",
+      "source_title": "Secure Software Development Lifecycle Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-008-QA02",
+      "question": "What is the production TTL for secrets in Vault?",
+      "answer": "24 hours, with automatic renewal.",
+      "evidence": "Secret TTL is 24 hours for production and 72 hours for non-production",
+      "source_id": "SEC-STD-008",
+      "source_file": "pdfs/SEC-STD-008-secure-software-development-lifecycle-standard.pdf",
+      "source_title": "Secure Software Development Lifecycle Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-008-QA03",
+      "question": "How many approving reviewers does a security-relevant change need?",
+      "answer": "Two approving reviewers.",
+      "evidence": "two approving reviewers where the change is security-relevant or touches more than 400 lines",
+      "source_id": "SEC-STD-008",
+      "source_file": "pdfs/SEC-STD-008-secure-software-development-lifecycle-standard.pdf",
+      "source_title": "Secure Software Development Lifecycle Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-008-QA04",
+      "question": "How long does a security gate waiver last?",
+      "answer": "14 days, after which it expires.",
+      "evidence": "every waiver is logged with a reason and expires after 14 days",
+      "source_id": "SEC-STD-008",
+      "source_file": "pdfs/SEC-STD-008-secure-software-development-lifecycle-standard.pdf",
+      "source_title": "Secure Software Development Lifecycle Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-008-QA05",
+      "question": "What happens when a push is blocked by the secret scanner three times?",
+      "answer": "A SEV-3 ticket is raised automatically.",
+      "evidence": "a push blocked three times by the scanner automatically raises a SEV-3 ticket",
+      "source_id": "SEC-STD-008",
+      "source_file": "pdfs/SEC-STD-008-secure-software-development-lifecycle-standard.pdf",
+      "source_title": "Secure Software Development Lifecycle Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-012-QA01",
+      "question": "What are the four Northwind data classification levels?",
+      "answer": "Public, Internal, Confidential, and Restricted.",
+      "evidence": "Public ... Internal ... Confidential ... Restricted",
+      "source_id": "SEC-STD-012",
+      "source_file": "pdfs/SEC-STD-012-data-classification-and-handling-standard.pdf",
+      "source_title": "Data Classification and Handling Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-012-QA02",
+      "question": "How long are security logs retained?",
+      "answer": "13 months.",
+      "evidence": "Security logs are retained for 13 months",
+      "source_id": "SEC-STD-012",
+      "source_file": "pdfs/SEC-STD-012-data-classification-and-handling-standard.pdf",
+      "source_title": "Data Classification and Handling Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-012-QA03",
+      "question": "Can Restricted data be sent by email if the attachment is encrypted?",
+      "answer": "No. Restricted data may not be emailed under any circumstances, including encrypted attachments.",
+      "evidence": "Restricted data may not be emailed under any circumstances, including encrypted attachments",
+      "source_id": "SEC-STD-012",
+      "source_file": "pdfs/SEC-STD-012-data-classification-and-handling-standard.pdf",
+      "source_title": "Data Classification and Handling Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-012-QA04",
+      "question": "How long are customer contract records retained after contract end?",
+      "answer": "Seven years.",
+      "evidence": "retained for seven years after contract end",
+      "source_id": "SEC-STD-012",
+      "source_file": "pdfs/SEC-STD-012-data-classification-and-handling-standard.pdf",
+      "source_title": "Data Classification and Handling Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-012-QA05",
+      "question": "What happens to support tickets containing customer data after 24 months?",
+      "answer": "They are anonymised rather than deleted so analytics remain possible.",
+      "evidence": "retained for 24 months and then anonymised rather than deleted",
+      "source_id": "SEC-STD-012",
+      "source_file": "pdfs/SEC-STD-012-data-classification-and-handling-standard.pdf",
+      "source_title": "Data Classification and Handling Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-015-QA01",
+      "question": "What vendor tier applies when a supplier stores Northwind customer data?",
+      "answer": "Tier 1, regardless of contract size.",
+      "evidence": "A supplier that stores or processes Northwind customer data is Tier 1 even if the contract is small",
+      "source_id": "SEC-STD-015",
+      "source_file": "pdfs/SEC-STD-015-third-party-and-vendor-security-assessment-standard.pdf",
+      "source_title": "Third-Party and Vendor Security Assessment Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-015-QA02",
+      "question": "Within how many hours must a Tier 1 supplier notify Northwind of a breach?",
+      "answer": "Within 24 hours of becoming aware.",
+      "evidence": "breach notification to Northwind within 24 hours of the supplier becoming aware",
+      "source_id": "SEC-STD-015",
+      "source_file": "pdfs/SEC-STD-015-third-party-and-vendor-security-assessment-standard.pdf",
+      "source_title": "Third-Party and Vendor Security Assessment Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-015-QA03",
+      "question": "How long may emergency unassessed vendor access last?",
+      "answer": "30 days, and it cannot be renewed.",
+      "evidence": "Emergency onboarding grants access for 30 days only",
+      "source_id": "SEC-STD-015",
+      "source_file": "pdfs/SEC-STD-015-third-party-and-vendor-security-assessment-standard.pdf",
+      "source_title": "Third-Party and Vendor Security Assessment Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-015-QA04",
+      "question": "What minimum age and coverage must a SOC 2 Type II audit period have?",
+      "answer": "At least six months of audit period, and the report must be under 12 months old.",
+      "evidence": "the audit period covers at least six months, the report is under 12 months old",
+      "source_id": "SEC-STD-015",
+      "source_file": "pdfs/SEC-STD-015-third-party-and-vendor-security-assessment-standard.pdf",
+      "source_title": "Third-Party and Vendor Security Assessment Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "SEC-STD-015-QA05",
+      "question": "What minimum cyber insurance must Tier 1 and Tier 2 contracts require?",
+      "answer": "At least 5 million USD.",
+      "evidence": "cyber insurance of at least 5 million USD",
+      "source_id": "SEC-STD-015",
+      "source_file": "pdfs/SEC-STD-015-third-party-and-vendor-security-assessment-standard.pdf",
+      "source_title": "Third-Party and Vendor Security Assessment Standard",
+      "category": "Information Security"
+    },
+    {
+      "id": "IT-STD-003-QA01",
+      "question": "What is the response target for a P1 IT incident?",
+      "answer": "10 minutes.",
+      "evidence": "P1 | 10 minutes | 4 hours",
+      "source_id": "IT-STD-003",
+      "source_file": "pdfs/IT-STD-003-it-service-management-and-incident-priorities-standard.pdf",
+      "source_title": "IT Service Management and Incident Priorities Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-003-QA02",
+      "question": "When does the quarterly change freeze occur?",
+      "answer": "20 December to 2 January, plus the last five business days of each quarter.",
+      "evidence": "The change freeze window runs from 20 December to 2 January and through the last five business days of each quarter",
+      "source_id": "IT-STD-003",
+      "source_file": "pdfs/IT-STD-003-it-service-management-and-incident-priorities-standard.pdf",
+      "source_title": "IT Service Management and Incident Priorities Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-003-QA03",
+      "question": "How many standard changes are in the Northwind catalogue?",
+      "answer": "142.",
+      "evidence": "there are currently 142 standard changes in the catalogue",
+      "source_id": "IT-STD-003",
+      "source_file": "pdfs/IT-STD-003-it-service-management-and-incident-priorities-standard.pdf",
+      "source_title": "IT Service Management and Incident Priorities Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-003-QA04",
+      "question": "When does the Change Advisory Board meet?",
+      "answer": "Tuesday and Thursday at 14:00 Eastern.",
+      "evidence": "meets Tuesday and Thursday at 14:00 Eastern",
+      "source_id": "IT-STD-003",
+      "source_file": "pdfs/IT-STD-003-it-service-management-and-incident-priorities-standard.pdf",
+      "source_title": "IT Service Management and Incident Priorities Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-003-QA05",
+      "question": "At what age is an unresolved problem record escalated to the IT Director?",
+      "answer": "90 days without a plan.",
+      "evidence": "Any problem open longer than 90 days without a plan is escalated to the IT Director",
+      "source_id": "IT-STD-003",
+      "source_file": "pdfs/IT-STD-003-it-service-management-and-incident-priorities-standard.pdf",
+      "source_title": "IT Service Management and Incident Priorities Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-RBK-006-QA01",
+      "question": "What Kubernetes version does the Atlas platform run?",
+      "answer": "Version 1.31.",
+      "evidence": "running version 1.31 across three regions",
+      "source_id": "IT-RBK-006",
+      "source_file": "pdfs/IT-RBK-006-kubernetes-platform-runbook.pdf",
+      "source_title": "Kubernetes Platform Runbook",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-RBK-006-QA02",
+      "question": "What does pod exit code 137 usually mean?",
+      "answer": "The container was killed, usually by the OOM killer.",
+      "evidence": "137 means the container was killed, usually by the OOM killer",
+      "source_id": "IT-RBK-006",
+      "source_file": "pdfs/IT-RBK-006-kubernetes-platform-runbook.pdf",
+      "source_title": "Kubernetes Platform Runbook",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-RBK-006-QA03",
+      "question": "What is the default production resource quota per namespace on Atlas?",
+      "answer": "8 CPU and 32 GiB memory.",
+      "evidence": "8 CPU and 32 GiB memory for production and 2 CPU and 4 GiB for non-production",
+      "source_id": "IT-RBK-006",
+      "source_file": "pdfs/IT-RBK-006-kubernetes-platform-runbook.pdf",
+      "source_title": "Kubernetes Platform Runbook",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-RBK-006-QA04",
+      "question": "How long is the soak period between Atlas region upgrades?",
+      "answer": "24 hours, and it may not be shortened.",
+      "evidence": "with a 24 hour soak between regions",
+      "source_id": "IT-RBK-006",
+      "source_file": "pdfs/IT-RBK-006-kubernetes-platform-runbook.pdf",
+      "source_title": "Kubernetes Platform Runbook",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-RBK-006-QA05",
+      "question": "Where does a 502 from the edge usually originate?",
+      "answer": "The ingress cannot reach a ready pod, so endpoints should be checked first.",
+      "evidence": "A 502 from the edge usually means the ingress cannot reach a ready pod",
+      "source_id": "IT-RBK-006",
+      "source_file": "pdfs/IT-RBK-006-kubernetes-platform-runbook.pdf",
+      "source_title": "Kubernetes Platform Runbook",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-014-QA01",
+      "question": "What are the RPO and RTO for Tier 1 services?",
+      "answer": "15 minute RPO and 2 hour RTO.",
+      "evidence": "Tier 1 | 15 minutes | 2 hours",
+      "source_id": "IT-STD-014",
+      "source_file": "pdfs/IT-STD-014-backup-and-disaster-recovery-standard.pdf",
+      "source_title": "Backup and Disaster Recovery Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-014-QA02",
+      "question": "How often must Tier 1 services undergo a full restore test?",
+      "answer": "Every quarter, with a monthly point-in-time restore test.",
+      "evidence": "Tier 1 services must have a full restore tested every quarter and a point-in-time restore tested every month",
+      "source_id": "IT-STD-014",
+      "source_file": "pdfs/IT-STD-014-backup-and-disaster-recovery-standard.pdf",
+      "source_title": "Backup and Disaster Recovery Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-014-QA03",
+      "question": "What object lock mode is required for Tier 1 and Tier 2 backups?",
+      "answer": "Compliance mode; governance mode is not sufficient.",
+      "evidence": "immutable for Tier 1 and Tier 2 for the full retention period using object lock in compliance mode",
+      "source_id": "IT-STD-014",
+      "source_file": "pdfs/IT-STD-014-backup-and-disaster-recovery-standard.pdf",
+      "source_title": "Backup and Disaster Recovery Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-014-QA04",
+      "question": "How many consecutive failed Tier 1 backups trigger a P1?",
+      "answer": "Three consecutive failures.",
+      "evidence": "Three consecutive failed Tier 1 backups is a P1",
+      "source_id": "IT-STD-014",
+      "source_file": "pdfs/IT-STD-014-backup-and-disaster-recovery-standard.pdf",
+      "source_title": "Backup and Disaster Recovery Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-014-QA05",
+      "question": "How much real traffic must a live DR failover carry?",
+      "answer": "A minimum of four hours of real traffic for all Tier 1 services.",
+      "evidence": "fails over all Tier 1 services to the secondary region for a minimum of four hours of real traffic",
+      "source_id": "IT-STD-014",
+      "source_file": "pdfs/IT-STD-014-backup-and-disaster-recovery-standard.pdf",
+      "source_title": "Backup and Disaster Recovery Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-HBK-018-QA01",
+      "question": "What is the laptop refresh cycle for engineering roles?",
+      "answer": "36 months.",
+      "evidence": "Engineering | MacBook Pro 14 M4 or Latitude 7450 | 36 months",
+      "source_id": "IT-HBK-018",
+      "source_file": "pdfs/IT-HBK-018-endpoint-device-management-handbook.pdf",
+      "source_title": "Endpoint Device Management Handbook",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-HBK-018-QA02",
+      "question": "At which patch ring does a device lose internal network access if unpatched?",
+      "answer": "Ring 4, at day 7.",
+      "evidence": "Ring 4 is mandatory enforcement at day 7, after which the device cannot reach internal network resources",
+      "source_id": "IT-HBK-018",
+      "source_file": "pdfs/IT-HBK-018-endpoint-device-management-handbook.pdf",
+      "source_title": "Endpoint Device Management Handbook",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-HBK-018-QA03",
+      "question": "How many applications are available for self-service install?",
+      "answer": "380 approved applications in the Company Portal.",
+      "evidence": "The Company Portal offers 380 approved applications",
+      "source_id": "IT-HBK-018",
+      "source_file": "pdfs/IT-HBK-018-endpoint-device-management-handbook.pdf",
+      "source_title": "Endpoint Device Management Handbook",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-HBK-018-QA04",
+      "question": "How long are granted local administrator rights valid?",
+      "answer": "180 days, with automatic revocation at expiry.",
+      "evidence": "granted for 180 days, require manager approval, are logged, and are revoked automatically at expiry",
+      "source_id": "IT-HBK-018",
+      "source_file": "pdfs/IT-HBK-018-endpoint-device-management-handbook.pdf",
+      "source_title": "Endpoint Device Management Handbook",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-HBK-018-QA05",
+      "question": "What is the standard device for general staff at Northwind?",
+      "answer": "A Dell Latitude 7450 running Windows 11 Enterprise 24H2.",
+      "evidence": "Windows 11 Enterprise 24H2 on a Dell Latitude 7450",
+      "source_id": "IT-HBK-018",
+      "source_file": "pdfs/IT-HBK-018-endpoint-device-management-handbook.pdf",
+      "source_title": "Endpoint Device Management Handbook",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-021-QA01",
+      "question": "What is the maximum duration of a production administrator access grant?",
+      "answer": "Four hours.",
+      "evidence": "granted for a maximum of four hours with a mandatory ticket reference",
+      "source_id": "IT-STD-021",
+      "source_file": "pdfs/IT-STD-021-identity-and-access-management-standard.pdf",
+      "source_title": "Identity and Access Management Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-021-QA02",
+      "question": "How many role bundles exist in the Northwind IAM model?",
+      "answer": "214 bundles.",
+      "evidence": "There are 214 bundles covering the standard roles",
+      "source_id": "IT-STD-021",
+      "source_file": "pdfs/IT-STD-021-identity-and-access-management-standard.pdf",
+      "source_title": "Identity and Access Management Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-021-QA03",
+      "question": "How long do ad hoc access grants last before expiring?",
+      "answer": "90 days, unless marked permanent with bundle owner approval.",
+      "evidence": "expires after 90 days unless marked as permanent",
+      "source_id": "IT-STD-021",
+      "source_file": "pdfs/IT-STD-021-identity-and-access-management-standard.pdf",
+      "source_title": "Identity and Access Management Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-021-QA04",
+      "question": "What is the cap on identities holding production administrator rights?",
+      "answer": "3 percent of engineering headcount.",
+      "evidence": "capped at 3 percent of engineering headcount",
+      "source_id": "IT-STD-021",
+      "source_file": "pdfs/IT-STD-021-identity-and-access-management-standard.pdf",
+      "source_title": "Identity and Access Management Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "IT-STD-021-QA05",
+      "question": "What happens to reviewers who do not complete a quarterly access review?",
+      "answer": "Their own access is removed at the end of the 15 day window.",
+      "evidence": "Reviewers who do not respond within the 15 day window have their own access removed",
+      "source_id": "IT-STD-021",
+      "source_file": "pdfs/IT-STD-021-identity-and-access-management-standard.pdf",
+      "source_title": "Identity and Access Management Standard",
+      "category": "IT Operations"
+    },
+    {
+      "id": "FIN-POL-001-QA01",
+      "question": "After how many days are unsubmitted expenses automatically rejected?",
+      "answer": "60 days.",
+      "evidence": "Expenses older than 60 days are rejected automatically",
+      "source_id": "FIN-POL-001",
+      "source_file": "pdfs/FIN-POL-001-expense-reimbursement-and-corporate-card-policy.pdf",
+      "source_title": "Expense Reimbursement and Corporate Card Policy",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-POL-001-QA02",
+      "question": "What is the US Tier 1 accommodation cap per night?",
+      "answer": "325 USD.",
+      "evidence": "US Tier 1 (NYC, SF) | 95 USD | 325 USD",
+      "source_id": "FIN-POL-001",
+      "source_file": "pdfs/FIN-POL-001-expense-reimbursement-and-corporate-card-policy.pdf",
+      "source_title": "Expense Reimbursement and Corporate Card Policy",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-POL-001-QA03",
+      "question": "What monthly limit does the manager corporate card carry?",
+      "answer": "15,000 USD.",
+      "evidence": "The manager card carries 15,000 USD",
+      "source_id": "FIN-POL-001",
+      "source_file": "pdfs/FIN-POL-001-expense-reimbursement-and-corporate-card-policy.pdf",
+      "source_title": "Expense Reimbursement and Corporate Card Policy",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-POL-001-QA04",
+      "question": "What percentage of expense reports does Finance Operations audit?",
+      "answer": "8 percent on a risk-weighted sample, plus 100 percent of reports above 5,000 USD.",
+      "evidence": "audits 8 percent of expense reports on a risk-weighted sample, plus 100 percent of reports above 5,000 USD",
+      "source_id": "FIN-POL-001",
+      "source_file": "pdfs/FIN-POL-001-expense-reimbursement-and-corporate-card-policy.pdf",
+      "source_title": "Expense Reimbursement and Corporate Card Policy",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-POL-001-QA05",
+      "question": "What is the team building cap per person per year?",
+      "answer": "300 USD per person per year, and 120 USD per person per event.",
+      "evidence": "Team building is capped at 120 USD per person per event and 300 USD per person per year",
+      "source_id": "FIN-POL-001",
+      "source_file": "pdfs/FIN-POL-001-expense-reimbursement-and-corporate-card-policy.pdf",
+      "source_title": "Expense Reimbursement and Corporate Card Policy",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-006-QA01",
+      "question": "Above what contract value are three competitive bids required?",
+      "answer": "250,000 USD annual contract value.",
+      "evidence": "Contracts above 250,000 USD require a minimum of three comparable bids",
+      "source_id": "FIN-STD-006",
+      "source_file": "pdfs/FIN-STD-006-procurement-and-purchase-approval-standard.pdf",
+      "source_title": "Procurement and Purchase Approval Standard",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-006-QA02",
+      "question": "What price weighting is used in the bid scoring matrix?",
+      "answer": "40 percent price, 30 capability, 20 security and compliance, 10 sustainability.",
+      "evidence": "Price carries a weighting of 40 percent, capability 30 percent, security and compliance 20 percent",
+      "source_id": "FIN-STD-006",
+      "source_file": "pdfs/FIN-STD-006-procurement-and-purchase-approval-standard.pdf",
+      "source_title": "Procurement and Purchase Approval Standard",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-006-QA03",
+      "question": "What invoice-to-PO mismatch percentage blocks payment?",
+      "answer": "A mismatch above 5 percent.",
+      "evidence": "A mismatch above 5 percent blocks payment until resolved",
+      "source_id": "FIN-STD-006",
+      "source_file": "pdfs/FIN-STD-006-procurement-and-purchase-approval-standard.pdf",
+      "source_title": "Procurement and Purchase Approval Standard",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-006-QA04",
+      "question": "What maverick spend rate triggers a remediation plan?",
+      "answer": "Departments above 5 percent maverick spend.",
+      "evidence": "Departments above 5 percent maverick spend are required to produce a remediation plan",
+      "source_id": "FIN-STD-006",
+      "source_file": "pdfs/FIN-STD-006-procurement-and-purchase-approval-standard.pdf",
+      "source_title": "Procurement and Purchase Approval Standard",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-006-QA05",
+      "question": "What are Northwind's standard supplier payment terms?",
+      "answer": "Net 30 from a valid, matched invoice, with a 1.5 percent discount for payment within 10 days where offered.",
+      "evidence": "Suppliers are paid on net 30 from a valid, matched invoice",
+      "source_id": "FIN-STD-006",
+      "source_file": "pdfs/FIN-STD-006-procurement-and-purchase-approval-standard.pdf",
+      "source_title": "Procurement and Purchase Approval Standard",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-011-QA01",
+      "question": "Over what period are sales commissions capitalised and amortised?",
+      "answer": "Five years, the expected customer relationship life.",
+      "evidence": "For Northwind that period is the expected customer relationship life of five years",
+      "source_id": "FIN-STD-011",
+      "source_file": "pdfs/FIN-STD-011-revenue-recognition-guidance-for-saas-contracts.pdf",
+      "source_title": "Revenue Recognition Guidance for SaaS Contracts",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-011-QA02",
+      "question": "What is the normal discount range for the core Northwind product?",
+      "answer": "5 to 15 percent; a renewal discount above 15 percent is tested for a material right.",
+      "evidence": "The normal discount range for the core product is 5 to 15 percent",
+      "source_id": "FIN-STD-011",
+      "source_file": "pdfs/FIN-STD-011-revenue-recognition-guidance-for-saas-contracts.pdf",
+      "source_title": "Revenue Recognition Guidance for SaaS Contracts",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-011-QA03",
+      "question": "When is optional training revenue recognised?",
+      "answer": "As delivered, because it is a distinct performance obligation.",
+      "evidence": "Optional training | Yes | As delivered",
+      "source_id": "FIN-STD-011",
+      "source_file": "pdfs/FIN-STD-011-revenue-recognition-guidance-for-saas-contracts.pdf",
+      "source_title": "Revenue Recognition Guidance for SaaS Contracts",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-011-QA04",
+      "question": "How often is the standalone selling price table refreshed?",
+      "answer": "Twice a year, in January and July.",
+      "evidence": "The SSP table is refreshed twice a year, in January and July",
+      "source_id": "FIN-STD-011",
+      "source_file": "pdfs/FIN-STD-011-revenue-recognition-guidance-for-saas-contracts.pdf",
+      "source_title": "Revenue Recognition Guidance for SaaS Contracts",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-011-QA05",
+      "question": "What discount on a bundle must be allocated proportionately across obligations?",
+      "answer": "Any bundle discount, such as a 30 percent discount, must be allocated to all obligations proportionately rather than absorbed by one line.",
+      "evidence": "the discount must be allocated to all obligations proportionately, not absorbed entirely by the services line",
+      "source_id": "FIN-STD-011",
+      "source_file": "pdfs/FIN-STD-011-revenue-recognition-guidance-for-saas-contracts.pdf",
+      "source_title": "Revenue Recognition Guidance for SaaS Contracts",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-016-QA01",
+      "question": "By which working day must the close pack reach the Executive Staff?",
+      "answer": "WD5, at 16:00 Eastern.",
+      "evidence": "WD5 | Close pack issued to Executive Staff | Financial Reporting | 16:00",
+      "source_id": "FIN-STD-016",
+      "source_file": "pdfs/FIN-STD-016-month-end-close-and-reporting-calendar.pdf",
+      "source_title": "Month-End Close and Reporting Calendar",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-016-QA02",
+      "question": "What is the manual journal value requiring a Controller's approval?",
+      "answer": "500,000 USD.",
+      "evidence": "journals above 500,000 USD require a Controller",
+      "source_id": "FIN-STD-016",
+      "source_file": "pdfs/FIN-STD-016-month-end-close-and-reporting-calendar.pdf",
+      "source_title": "Month-End Close and Reporting Calendar",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-016-QA03",
+      "question": "What is planning materiality set at?",
+      "answer": "1 percent of revenue, approximately 2.4 million USD.",
+      "evidence": "Planning materiality for the statutory accounts is set at 1 percent of revenue, which for the current year is approximately 2.4 million USD",
+      "source_id": "FIN-STD-016",
+      "source_file": "pdfs/FIN-STD-016-month-end-close-and-reporting-calendar.pdf",
+      "source_title": "Month-End Close and Reporting Calendar",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-016-QA04",
+      "question": "What variance triggers written commentary in management reporting?",
+      "answer": "Any variance above 250,000 USD or 10 percent against budget, whichever is lower.",
+      "evidence": "any variance above 250,000 USD or 10 percent against budget, whichever is lower",
+      "source_id": "FIN-STD-016",
+      "source_file": "pdfs/FIN-STD-016-month-end-close-and-reporting-calendar.pdf",
+      "source_title": "Month-End Close and Reporting Calendar",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-STD-016-QA05",
+      "question": "What percentage of planning materiality is performance materiality?",
+      "answer": "75 percent.",
+      "evidence": "Performance materiality is set at 75 percent of planning materiality",
+      "source_id": "FIN-STD-016",
+      "source_file": "pdfs/FIN-STD-016-month-end-close-and-reporting-calendar.pdf",
+      "source_title": "Month-End Close and Reporting Calendar",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-HBK-022-QA01",
+      "question": "How many bank accounts does Northwind maintain?",
+      "answer": "41 accounts across 14 currencies with four relationship banks.",
+      "evidence": "Northwind maintains 41 bank accounts across 14 currencies with four relationship banks",
+      "source_id": "FIN-HBK-022",
+      "source_file": "pdfs/FIN-HBK-022-treasury-and-cash-management-handbook.pdf",
+      "source_title": "Treasury and Cash Management Handbook",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-HBK-022-QA02",
+      "question": "What percentage of next-three-month FX exposure is hedged?",
+      "answer": "80 percent, using plain vanilla forwards.",
+      "evidence": "80 percent of the next three months, 60 percent of months four to six, and 40 percent of months seven to twelve",
+      "source_id": "FIN-HBK-022",
+      "source_file": "pdfs/FIN-HBK-022-treasury-and-cash-management-handbook.pdf",
+      "source_title": "Treasury and Cash Management Handbook",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-HBK-022-QA03",
+      "question": "What is the maximum maturity for investing surplus cash?",
+      "answer": "90 days.",
+      "evidence": "Maximum maturity is 90 days",
+      "source_id": "FIN-HBK-022",
+      "source_file": "pdfs/FIN-HBK-022-treasury-and-cash-management-handbook.pdf",
+      "source_title": "Treasury and Cash Management Handbook",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-HBK-022-QA04",
+      "question": "How long is the cooling-off period for new supplier payment details?",
+      "answer": "24 hours, during which the first payment to new details is held.",
+      "evidence": "a 24 hour cooling-off period during which the first payment to new details is held",
+      "source_id": "FIN-HBK-022",
+      "source_file": "pdfs/FIN-HBK-022-treasury-and-cash-management-handbook.pdf",
+      "source_title": "Treasury and Cash Management Handbook",
+      "category": "Finance"
+    },
+    {
+      "id": "FIN-HBK-022-QA05",
+      "question": "What daily exposure limit applies to a single-A rated bank?",
+      "answer": "50 million USD of daily exposure and 200 million USD aggregate notional.",
+      "evidence": "The limit for a single-A rated bank is 50 million USD of daily exposure and 200 million USD of aggregate notional",
+      "source_id": "FIN-HBK-022",
+      "source_file": "pdfs/FIN-HBK-022-treasury-and-cash-management-handbook.pdf",
+      "source_title": "Treasury and Cash Management Handbook",
+      "category": "Finance"
+    },
+    {
+      "id": "LEG-POL-003-QA01",
+      "question": "What is the deadline to respond to a data subject access request?",
+      "answer": "30 calendar days from receipt, extendable by a further 60 days for complex or numerous requests.",
+      "evidence": "The response deadline is 30 calendar days from receipt, extendable by a further 60 days",
+      "source_id": "LEG-POL-003",
+      "source_file": "pdfs/LEG-POL-003-privacy-and-personal-data-protection-policy.pdf",
+      "source_title": "Privacy and Personal Data Protection Policy",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-POL-003-QA02",
+      "question": "How long are product analytics records retained?",
+      "answer": "26 months.",
+      "evidence": "Product analytics, aggregated | Legitimate interests | 26 months",
+      "source_id": "LEG-POL-003",
+      "source_file": "pdfs/LEG-POL-003-privacy-and-personal-data-protection-policy.pdf",
+      "source_title": "Privacy and Personal Data Protection Policy",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-POL-003-QA03",
+      "question": "Where is EEA customer data hosted?",
+      "answer": "In the eu-west-1 region, replicated only to the Ireland support environment.",
+      "evidence": "hosts EEA customer data in the eu-west-1 region and does not replicate it outside the EEA except to the Ireland support environment",
+      "source_id": "LEG-POL-003",
+      "source_file": "pdfs/LEG-POL-003-privacy-and-personal-data-protection-policy.pdf",
+      "source_title": "Privacy and Personal Data Protection Policy",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-POL-003-QA04",
+      "question": "What is the current median DSAR response time?",
+      "answer": "14 days, against a target of under 20 days.",
+      "evidence": "The current median response time is 14 days and the target is under 20 days",
+      "source_id": "LEG-POL-003",
+      "source_file": "pdfs/LEG-POL-003-privacy-and-personal-data-protection-policy.pdf",
+      "source_title": "Privacy and Personal Data Protection Policy",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-POL-003-QA05",
+      "question": "Which lawful basis covers marketing email?",
+      "answer": "Consent, which must be granular, freely given, and as easy to withdraw as to give.",
+      "evidence": "Marketing email | Consent | Until withdrawal plus 12 months",
+      "source_id": "LEG-POL-003",
+      "source_file": "pdfs/LEG-POL-003-privacy-and-personal-data-protection-policy.pdf",
+      "source_title": "Privacy and Personal Data Protection Policy",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-007-QA01",
+      "question": "What is Northwind's standard limitation of liability cap?",
+      "answer": "12 months of fees paid.",
+      "evidence": "a limitation of liability capped at 12 months of fees",
+      "source_id": "LEG-STD-007",
+      "source_file": "pdfs/LEG-STD-007-commercial-contracting-and-signature-authority-standard.pdf",
+      "source_title": "Commercial Contracting and Signature Authority Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-007-QA02",
+      "question": "What is the maximum service credit exposure per month?",
+      "answer": "20 percent of the monthly fee.",
+      "evidence": "Service credits capped at 20 percent of the monthly fee",
+      "source_id": "LEG-STD-007",
+      "source_file": "pdfs/LEG-STD-007-commercial-contracting-and-signature-authority-standard.pdf",
+      "source_title": "Commercial Contracting and Signature Authority Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-007-QA03",
+      "question": "Which governing law jurisdictions are permitted?",
+      "answer": "Delaware or England and Wales.",
+      "evidence": "a governing law of either Delaware or England and Wales",
+      "source_id": "LEG-STD-007",
+      "source_file": "pdfs/LEG-STD-007-commercial-contracting-and-signature-authority-standard.pdf",
+      "source_title": "Commercial Contracting and Signature Authority Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-007-QA04",
+      "question": "How many clauses does the Commercial Playbook cover?",
+      "answer": "62 commonly negotiated clauses.",
+      "evidence": "the approved fallback, and the escalation trigger for 62 commonly negotiated clauses",
+      "source_id": "LEG-STD-007",
+      "source_file": "pdfs/LEG-STD-007-commercial-contracting-and-signature-authority-standard.pdf",
+      "source_title": "Commercial Contracting and Signature Authority Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-007-QA05",
+      "question": "Within how many hours must a supplier notify Northwind of a breach?",
+      "answer": "24 hours.",
+      "evidence": "breach notification within 24 hours",
+      "source_id": "LEG-STD-007",
+      "source_file": "pdfs/LEG-STD-007-commercial-contracting-and-signature-authority-standard.pdf",
+      "source_title": "Commercial Contracting and Signature Authority Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-012-QA01",
+      "question": "Which licence category covers MIT and Apache-2.0?",
+      "answer": "Green, permitted in all uses with no approval required.",
+      "evidence": "Green | MIT, BSD-2, BSD-3, Apache-2.0, ISC | All uses including distributed product code | None",
+      "source_id": "LEG-STD-012",
+      "source_file": "pdfs/LEG-STD-012-intellectual-property-and-open-source-policy.pdf",
+      "source_title": "Intellectual Property and Open Source Policy",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-012-QA02",
+      "question": "Who must approve an AGPL dependency in a hosted service?",
+      "answer": "The General Counsel.",
+      "evidence": "Any AGPL dependency in a hosted service requires General Counsel approval",
+      "source_id": "LEG-STD-012",
+      "source_file": "pdfs/LEG-STD-012-intellectual-property-and-open-source-policy.pdf",
+      "source_title": "Intellectual Property and Open Source Policy",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-012-QA03",
+      "question": "What must every distributed release ship regarding open source?",
+      "answer": "A notice file listing all open source components, licences and copyright notices, plus a source offer where required.",
+      "evidence": "must ship a notice file listing all open source components, their licences, and copyright notices",
+      "source_id": "LEG-STD-012",
+      "source_file": "pdfs/LEG-STD-012-intellectual-property-and-open-source-policy.pdf",
+      "source_title": "Intellectual Property and Open Source Policy",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-012-QA04",
+      "question": "Who approves releasing a new Northwind open source project?",
+      "answer": "The Open Source Review Board.",
+      "evidence": "Releasing a new Northwind open source project requires approval from the Open Source Review Board",
+      "source_id": "LEG-STD-012",
+      "source_file": "pdfs/LEG-STD-012-intellectual-property-and-open-source-policy.pdf",
+      "source_title": "Intellectual Property and Open Source Policy",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-012-QA05",
+      "question": "What licence categories are prohibited in distributed product code?",
+      "answer": "Red licences, including GPL-2.0, GPL-3.0, AGPL-3.0, SSPL, and CC-BY-NC, plus any unknown or missing licence.",
+      "evidence": "Red | GPL-2.0, GPL-3.0, AGPL-3.0, SSPL, CC-BY-NC | Prohibited in product",
+      "source_id": "LEG-STD-012",
+      "source_file": "pdfs/LEG-STD-012-intellectual-property-and-open-source-policy.pdf",
+      "source_title": "Intellectual Property and Open Source Policy",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-018-QA01",
+      "question": "How long are financial records retained?",
+      "answer": "7 years from the end of the fiscal year.",
+      "evidence": "Financial ledgers and supporting records | 7 years | End of fiscal year",
+      "source_id": "LEG-STD-018",
+      "source_file": "pdfs/LEG-STD-018-records-retention-and-legal-hold-standard.pdf",
+      "source_title": "Records Retention and Legal Hold Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-018-QA02",
+      "question": "How long are security and access logs retained?",
+      "answer": "13 months.",
+      "evidence": "Security and access logs | 13 months | Log creation",
+      "source_id": "LEG-STD-018",
+      "source_file": "pdfs/LEG-STD-018-records-retention-and-legal-hold-standard.pdf",
+      "source_title": "Records Retention and Legal Hold Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-018-QA03",
+      "question": "Within how many business days must a custodian acknowledge a legal hold?",
+      "answer": "5 business days.",
+      "evidence": "Custodians must acknowledge within 5 business days",
+      "source_id": "LEG-STD-018",
+      "source_file": "pdfs/LEG-STD-018-records-retention-and-legal-hold-standard.pdf",
+      "source_title": "Records Retention and Legal Hold Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-018-QA04",
+      "question": "How often are active legal holds re-issued for re-acknowledgement?",
+      "answer": "Every 90 days.",
+      "evidence": "Holds are re-issued and re-acknowledged every 90 days",
+      "source_id": "LEG-STD-018",
+      "source_file": "pdfs/LEG-STD-018-records-retention-and-legal-hold-standard.pdf",
+      "source_title": "Records Retention and Legal Hold Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-018-QA05",
+      "question": "How long are board minutes retained?",
+      "answer": "Permanently.",
+      "evidence": "Board minutes and resolutions | Permanent",
+      "source_id": "LEG-STD-018",
+      "source_file": "pdfs/LEG-STD-018-records-retention-and-legal-hold-standard.pdf",
+      "source_title": "Records Retention and Legal Hold Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-024-QA01",
+      "question": "What is the gift threshold for a private sector contact per year?",
+      "answer": "Up to 100 USD per year per recipient, with register entry required above 50 USD.",
+      "evidence": "Gift to a private sector contact | Up to 100 USD per year per recipient | Line manager | Required above 50 USD",
+      "source_id": "LEG-STD-024",
+      "source_file": "pdfs/LEG-STD-024-anti-bribery-gifts-and-hospitality-standard.pdf",
+      "source_title": "Anti-Bribery, Gifts and Hospitality Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-024-QA02",
+      "question": "How quickly must a payment made under duress be reported?",
+      "answer": "Within 24 hours to Compliance.",
+      "evidence": "report the payment to Compliance within 24 hours",
+      "source_id": "LEG-STD-024",
+      "source_file": "pdfs/LEG-STD-024-anti-bribery-gifts-and-hospitality-standard.pdf",
+      "source_title": "Anti-Bribery, Gifts and Hospitality Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-024-QA03",
+      "question": "Does Northwind allow political contributions?",
+      "answer": "No. Northwind makes no political contributions of any kind.",
+      "evidence": "Northwind makes no political contributions of any kind",
+      "source_id": "LEG-STD-024",
+      "source_file": "pdfs/LEG-STD-024-anti-bribery-gifts-and-hospitality-standard.pdf",
+      "source_title": "Anti-Bribery, Gifts and Hospitality Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-024-QA04",
+      "question": "What is the hospitality threshold per event for a private sector contact?",
+      "answer": "Up to 200 USD per event, with register entry required above 100 USD.",
+      "evidence": "Hospitality to a private sector contact | Up to 200 USD per event",
+      "source_id": "LEG-STD-024",
+      "source_file": "pdfs/LEG-STD-024-anti-bribery-gifts-and-hospitality-standard.pdf",
+      "source_title": "Anti-Bribery, Gifts and Hospitality Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "LEG-STD-024-QA05",
+      "question": "Which roles must complete advanced anti-bribery training annually?",
+      "answer": "Sales, procurement, and any role that engages intermediaries in a high-risk jurisdiction.",
+      "evidence": "Sales, procurement, and any role that engages intermediaries in a high-risk jurisdiction complete advanced training every year",
+      "source_id": "LEG-STD-024",
+      "source_file": "pdfs/LEG-STD-024-anti-bribery-gifts-and-hospitality-standard.pdf",
+      "source_title": "Anti-Bribery, Gifts and Hospitality Standard",
+      "category": "Legal and Compliance"
+    },
+    {
+      "id": "PRD-SPEC-004-QA01",
+      "question": "What percentage of Tier 2 support tickets were report requests?",
+      "answer": "38 percent in the last two quarters.",
+      "evidence": "38 percent of Tier 2 support tickets were report requests",
+      "source_id": "PRD-SPEC-004",
+      "source_file": "pdfs/PRD-SPEC-004-product-requirements-insight-studio-reporting-builder.pdf",
+      "source_title": "Product Requirements: Insight Studio Reporting Builder",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-SPEC-004-QA02",
+      "question": "How many metrics are in the Insight Studio launch metric set?",
+      "answer": "42 metrics.",
+      "evidence": "The launch metric set contains 42 metrics",
+      "source_id": "PRD-SPEC-004",
+      "source_file": "pdfs/PRD-SPEC-004-product-requirements-insight-studio-reporting-builder.pdf",
+      "source_title": "Product Requirements: Insight Studio Reporting Builder",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-SPEC-004-QA03",
+      "question": "What System Usability Scale score is required to exit the design partner stage?",
+      "answer": "At least 70, with no open severity 1 or 2 defects.",
+      "evidence": "requires a System Usability Scale score of at least 70 and no open severity 1 or 2 defects",
+      "source_id": "PRD-SPEC-004",
+      "source_file": "pdfs/PRD-SPEC-004-product-requirements-insight-studio-reporting-builder.pdf",
+      "source_title": "Product Requirements: Insight Studio Reporting Builder",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-SPEC-004-QA04",
+      "question": "How is a returning visitor identified in Insight Studio?",
+      "answer": "By a first-party cookie with a 395 day window.",
+      "evidence": "returning visitor, which is identified by a first-party cookie with a 395 day window",
+      "source_id": "PRD-SPEC-004",
+      "source_file": "pdfs/PRD-SPEC-004-product-requirements-insight-studio-reporting-builder.pdf",
+      "source_title": "Product Requirements: Insight Studio Reporting Builder",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-SPEC-004-QA05",
+      "question": "What is the target reduction in report-request tickets?",
+      "answer": "60 percent, measured 90 days after general availability.",
+      "evidence": "report-request tickets down 60 percent",
+      "source_id": "PRD-SPEC-004",
+      "source_file": "pdfs/PRD-SPEC-004-product-requirements-insight-studio-reporting-builder.pdf",
+      "source_title": "Product Requirements: Insight Studio Reporting Builder",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-RFC-009-QA01",
+      "question": "What is the current median cache miss TTFB?",
+      "answer": "890 milliseconds, with a p99 of 3.4 seconds.",
+      "evidence": "the median miss takes 890 milliseconds and the 99th percentile reaches 3.4 seconds",
+      "source_id": "PRD-RFC-009",
+      "source_file": "pdfs/PRD-RFC-009-architecture-rfc-migrating-page-rendering-to-edge-functions.pdf",
+      "source_title": "Architecture RFC: Migrating Page Rendering to Edge Functions",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-RFC-009-QA02",
+      "question": "What is the miss rate on sites with personalised blocks?",
+      "answer": "34 percent, against 11 percent overall.",
+      "evidence": "Miss rate is 11 percent overall but 34 percent on sites with personalised blocks",
+      "source_id": "PRD-RFC-009",
+      "source_file": "pdfs/PRD-RFC-009-architecture-rfc-migrating-page-rendering-to-edge-functions.pdf",
+      "source_title": "Architecture RFC: Migrating Page Rendering to Edge Functions",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-RFC-009-QA03",
+      "question": "What mismatch rate is allowed before shifting traffic in the shadow stage?",
+      "answer": "Fewer than 0.01 percent mismatched renders.",
+      "evidence": "Shadow diffing must show fewer than 0.01 percent mismatched renders before any traffic shift",
+      "source_id": "PRD-RFC-009",
+      "source_file": "pdfs/PRD-RFC-009-architecture-rfc-migrating-page-rendering-to-edge-functions.pdf",
+      "source_title": "Architecture RFC: Migrating Page Rendering to Edge Functions",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-RFC-009-QA04",
+      "question": "How many golden-file pages are in the rendering CI suite?",
+      "answer": "1,200 representative pages.",
+      "evidence": "a golden-file suite of 1,200 representative pages run in CI",
+      "source_id": "PRD-RFC-009",
+      "source_file": "pdfs/PRD-RFC-009-architecture-rfc-migrating-page-rendering-to-edge-functions.pdf",
+      "source_title": "Architecture RFC: Migrating Page Rendering to Edge Functions",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-RFC-009-QA05",
+      "question": "What cold-start p99 overhead triggers a design revisit?",
+      "answer": "More than 120 milliseconds.",
+      "evidence": "if p99 cold-start overhead exceeds 120 milliseconds the design is revisited",
+      "source_id": "PRD-RFC-009",
+      "source_file": "pdfs/PRD-RFC-009-architecture-rfc-migrating-page-rendering-to-edge-functions.pdf",
+      "source_title": "Architecture RFC: Migrating Page Rendering to Edge Functions",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-REL-014-QA01",
+      "question": "When did the 2026.2 Spring release ship?",
+      "answer": "22 April 2026.",
+      "evidence": "The 2026.2 Spring release shipped on 22 April 2026",
+      "source_id": "PRD-REL-014",
+      "source_file": "pdfs/PRD-REL-014-release-notes-northwind-pages-2026-2-spring-release.pdf",
+      "source_title": "Release Notes: Northwind Pages 2026.2 Spring Release",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-REL-014-QA02",
+      "question": "When are the legacy v1 REST endpoints removed?",
+      "answer": "1 August 2026.",
+      "evidence": "removed on 1 August 2026",
+      "source_id": "PRD-REL-014",
+      "source_file": "pdfs/PRD-REL-014-release-notes-northwind-pages-2026-2-spring-release.pdf",
+      "source_title": "Release Notes: Northwind Pages 2026.2 Spring Release",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-REL-014-QA03",
+      "question": "How much did publish time improve for sites over 5,000 pages?",
+      "answer": "43 percent, from 11 minutes to 6.3 minutes.",
+      "evidence": "improved by 43 percent ... reducing a typical large publish from 11 minutes to 6.3 minutes",
+      "source_id": "PRD-REL-014",
+      "source_file": "pdfs/PRD-REL-014-release-notes-northwind-pages-2026-2-spring-release.pdf",
+      "source_title": "Release Notes: Northwind Pages 2026.2 Spring Release",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-REL-014-QA04",
+      "question": "How many locales does Northwind Pages support after 2026.2?",
+      "answer": "31 locales, after adding Polish and Swedish.",
+      "evidence": "Two additional locales, Polish and Swedish, bringing the total to 31",
+      "source_id": "PRD-REL-014",
+      "source_file": "pdfs/PRD-REL-014-release-notes-northwind-pages-2026-2-spring-release.pdf",
+      "source_title": "Release Notes: Northwind Pages 2026.2 Spring Release",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-REL-014-QA05",
+      "question": "What is the maximum nesting depth for conditional logic in Form Builder?",
+      "answer": "Eight nested conditions.",
+      "evidence": "with a maximum depth of eight nested conditions",
+      "source_id": "PRD-REL-014",
+      "source_file": "pdfs/PRD-REL-014-release-notes-northwind-pages-2026-2-spring-release.pdf",
+      "source_title": "Release Notes: Northwind Pages 2026.2 Spring Release",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-RES-019-QA01",
+      "question": "What was the median time to publish for the solo marketer persona?",
+      "answer": "27 minutes.",
+      "evidence": "Median time from a blank page to a published page was 27 minutes for the solo marketer",
+      "source_id": "PRD-RES-019",
+      "source_file": "pdfs/PRD-RES-019-user-research-report-content-authoring-friction-study.pdf",
+      "source_title": "User Research Report: Content Authoring Friction Study",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-RES-019-QA02",
+      "question": "How many survey respondents named approval waiting as their biggest delay?",
+      "answer": "61 percent.",
+      "evidence": "61 percent said approval waiting is their biggest single source of delay",
+      "source_id": "PRD-RES-019",
+      "source_file": "pdfs/PRD-RES-019-user-research-report-content-authoring-friction-study.pdf",
+      "source_title": "User Research Report: Content Authoring Friction Study",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-RES-019-QA03",
+      "question": "Which friction moment scored highest and what was its score?",
+      "answer": "Metadata and SEO field completion, scoring 84.",
+      "evidence": "Metadata and SEO field completion | 28 of 31 sessions | High | 84",
+      "source_id": "PRD-RES-019",
+      "source_file": "pdfs/PRD-RES-019-user-research-report-content-authoring-friction-study.pdf",
+      "source_title": "User Research Report: Content Authoring Friction Study",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-RES-019-QA04",
+      "question": "How many accounts and sessions were in the study?",
+      "answer": "24 accounts and 31 moderated sessions, plus a 212 respondent survey.",
+      "evidence": "31 moderated sessions of 45 minutes ... an unmoderated survey with 212 respondents",
+      "source_id": "PRD-RES-019",
+      "source_file": "pdfs/PRD-RES-019-user-research-report-content-authoring-friction-study.pdf",
+      "source_title": "User Research Report: Content Authoring Friction Study",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-RES-019-QA05",
+      "question": "What was the lowest confidence score measured in the survey?",
+      "answer": "2.6 out of 5, for metadata.",
+      "evidence": "low for metadata, at 2.6 out of 5",
+      "source_id": "PRD-RES-019",
+      "source_file": "pdfs/PRD-RES-019-user-research-report-content-authoring-friction-study.pdf",
+      "source_title": "User Research Report: Content Authoring Friction Study",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-GTM-023-QA01",
+      "question": "What does the Insight Studio Standard add-on cost?",
+      "answer": "150 USD per month per workspace.",
+      "evidence": "available as an add-on at 150 USD per month per workspace",
+      "source_id": "PRD-GTM-023",
+      "source_file": "pdfs/PRD-GTM-023-go-to-market-plan-insight-studio-launch.pdf",
+      "source_title": "Go-To-Market Plan: Insight Studio Launch",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-GTM-023-QA02",
+      "question": "Which segment is the launch beachhead?",
+      "answer": "Mid-market marketing teams of 5 to 50 employees with 40 to 400 pages, 41 percent of the base.",
+      "evidence": "The beachhead is mid-market marketing teams of 5 to 50 employees with between 40 and 400 pages, which represents 41 percent of the existing base",
+      "source_id": "PRD-GTM-023",
+      "source_file": "pdfs/PRD-GTM-023-go-to-market-plan-insight-studio-launch.pdf",
+      "source_title": "Go-To-Market Plan: Insight Studio Launch",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-GTM-023-QA03",
+      "question": "What is the activation target at 90 days?",
+      "answer": "35 percent of eligible accounts.",
+      "evidence": "activation of 35 percent of eligible accounts",
+      "source_id": "PRD-GTM-023",
+      "source_file": "pdfs/PRD-GTM-023-go-to-market-plan-insight-studio-launch.pdf",
+      "source_title": "Go-To-Market Plan: Insight Studio Launch",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-GTM-023-QA04",
+      "question": "Which feature is Enterprise-only at launch?",
+      "answer": "White-label PDF export.",
+      "evidence": "White-label PDF is Enterprise-only at launch",
+      "source_id": "PRD-GTM-023",
+      "source_file": "pdfs/PRD-GTM-023-go-to-market-plan-insight-studio-launch.pdf",
+      "source_title": "Go-To-Market Plan: Insight Studio Launch",
+      "category": "Product Management"
+    },
+    {
+      "id": "PRD-GTM-023-QA05",
+      "question": "What is the saved report limit per workspace?",
+      "answer": "500 saved reports and 50 scheduled deliveries.",
+      "evidence": "500 saved reports and 50 scheduled deliveries per workspace",
+      "source_id": "PRD-GTM-023",
+      "source_file": "pdfs/PRD-GTM-023-go-to-market-plan-insight-studio-launch.pdf",
+      "source_title": "Go-To-Market Plan: Insight Studio Launch",
+      "category": "Product Management"
+    },
+    {
+      "id": "DAT-STD-002-QA01",
+      "question": "How many events are in the Northwind Event Catalogue?",
+      "answer": "186 events.",
+      "evidence": "The catalogue currently holds 186 events",
+      "source_id": "DAT-STD-002",
+      "source_file": "pdfs/DAT-STD-002-analytics-event-tracking-specification.pdf",
+      "source_title": "Analytics Event Tracking Specification",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-002-QA02",
+      "question": "What is the anonymous cookie expiry window?",
+      "answer": "395 days.",
+      "evidence": "a cookie with a 395 day expiry",
+      "source_id": "DAT-STD-002",
+      "source_file": "pdfs/DAT-STD-002-analytics-event-tracking-specification.pdf",
+      "source_title": "Analytics Event Tracking Specification",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-002-QA03",
+      "question": "What quarantine volume blocks the next instrumentation library release?",
+      "answer": "Above 0.5 percent of daily events.",
+      "evidence": "Quarantine volume above 0.5 percent of daily events blocks the next release",
+      "source_id": "DAT-STD-002",
+      "source_file": "pdfs/DAT-STD-002-analytics-event-tracking-specification.pdf",
+      "source_title": "Analytics Event Tracking Specification",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-002-QA04",
+      "question": "Which table layer are general consumers allowed to query?",
+      "answer": "Marts only; staging is not deduplicated and is restricted to Data Engineering.",
+      "evidence": "Consumers read marts only. Direct queries against staging are prohibited",
+      "source_id": "DAT-STD-002",
+      "source_file": "pdfs/DAT-STD-002-analytics-event-tracking-specification.pdf",
+      "source_title": "Analytics Event Tracking Specification",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-002-QA05",
+      "question": "After how long unused are events flagged for retirement?",
+      "answer": "180 days without use in any dashboard or export.",
+      "evidence": "Events unused in any dashboard or export for 180 days are flagged for retirement",
+      "source_id": "DAT-STD-002",
+      "source_file": "pdfs/DAT-STD-002-analytics-event-tracking-specification.pdf",
+      "source_title": "Analytics Event Tracking Specification",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-008-QA01",
+      "question": "What are the five data quality dimensions used at Northwind?",
+      "answer": "Completeness, accuracy, consistency, timeliness, and validity.",
+      "evidence": "Completeness asks whether required values are present. Accuracy asks whether values reflect reality. Consistency ... Timeliness ... Validity",
+      "source_id": "DAT-STD-008",
+      "source_file": "pdfs/DAT-STD-008-data-quality-and-observability-standard.pdf",
+      "source_title": "Data Quality and Observability Standard",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-008-QA02",
+      "question": "What volume drop triggers a page for a probable upstream break?",
+      "answer": "A drop below 60 percent of expected volume.",
+      "evidence": "A drop below 60 percent of expected volume is treated as a probable upstream break and paged",
+      "source_id": "DAT-STD-008",
+      "source_file": "pdfs/DAT-STD-008-data-quality-and-observability-standard.pdf",
+      "source_title": "Data Quality and Observability Standard",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-008-QA03",
+      "question": "What is the breaking-change notice period in a data contract?",
+      "answer": "30 days.",
+      "evidence": "the breaking-change notice period, which is 30 days",
+      "source_id": "DAT-STD-008",
+      "source_file": "pdfs/DAT-STD-008-data-quality-and-observability-standard.pdf",
+      "source_title": "Data Quality and Observability Standard",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-008-QA04",
+      "question": "How many days of history does anomaly detection require before firing?",
+      "answer": "21 days.",
+      "evidence": "requires a minimum of 21 days of history before it will fire",
+      "source_id": "DAT-STD-008",
+      "source_file": "pdfs/DAT-STD-008-data-quality-and-observability-standard.pdf",
+      "source_title": "Data Quality and Observability Standard",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-008-QA05",
+      "question": "How is freshness measured?",
+      "answer": "From the source event timestamp to mart availability, not from job start.",
+      "evidence": "Freshness is measured from the source event timestamp to mart availability, not from job start",
+      "source_id": "DAT-STD-008",
+      "source_file": "pdfs/DAT-STD-008-data-quality-and-observability-standard.pdf",
+      "source_title": "Data Quality and Observability Standard",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-HBK-013-QA01",
+      "question": "How many certified dashboards are in the Northwind BI platform?",
+      "answer": "74.",
+      "evidence": "which contains 74 dashboards maintained by the Analytics team",
+      "source_id": "DAT-HBK-013",
+      "source_file": "pdfs/DAT-HBK-013-analytics-self-service-handbook.pdf",
+      "source_title": "Analytics Self-Service Handbook",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-HBK-013-QA02",
+      "question": "After how long without review does dashboard certification lapse?",
+      "answer": "90 days.",
+      "evidence": "Certification lapses automatically at 90 days without review",
+      "source_id": "DAT-HBK-013",
+      "source_file": "pdfs/DAT-HBK-013-analytics-self-service-handbook.pdf",
+      "source_title": "Analytics Self-Service Handbook",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-HBK-013-QA03",
+      "question": "What is the BI export row limit?",
+      "answer": "100,000 rows.",
+      "evidence": "Exports are limited to 100,000 rows",
+      "source_id": "DAT-HBK-013",
+      "source_file": "pdfs/DAT-HBK-013-analytics-self-service-handbook.pdf",
+      "source_title": "Analytics Self-Service Handbook",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-HBK-013-QA04",
+      "question": "What triggers Analytics review of community content?",
+      "answer": "More than 20 unique users in 30 days.",
+      "evidence": "Content that is viewed by more than 20 unique users in 30 days is reviewed by Analytics",
+      "source_id": "DAT-HBK-013",
+      "source_file": "pdfs/DAT-HBK-013-analytics-self-service-handbook.pdf",
+      "source_title": "Analytics Self-Service Handbook",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-HBK-013-QA05",
+      "question": "What is the service level for small analytics requests?",
+      "answer": "Five business days.",
+      "evidence": "have a five business day service level",
+      "source_id": "DAT-HBK-013",
+      "source_file": "pdfs/DAT-HBK-013-analytics-self-service-handbook.pdf",
+      "source_title": "Analytics Self-Service Handbook",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-017-QA01",
+      "question": "What population stability index value triggers automatic retraining review?",
+      "answer": "Above 0.3, with investigation triggered above 0.2.",
+      "evidence": "A population stability index above 0.2 on any feature triggers investigation; above 0.3 triggers automatic retraining review",
+      "source_id": "DAT-STD-017",
+      "source_file": "pdfs/DAT-STD-017-machine-learning-model-governance-standard.pdf",
+      "source_title": "Machine Learning Model Governance Standard",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-017-QA02",
+      "question": "What is the acceptance threshold for demographic parity difference?",
+      "answer": "Below 0.1.",
+      "evidence": "parity difference below 0.1 and an equal opportunity difference below 0.1",
+      "source_id": "DAT-STD-017",
+      "source_file": "pdfs/DAT-STD-017-machine-learning-model-governance-standard.pdf",
+      "source_title": "Machine Learning Model Governance Standard",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-017-QA03",
+      "question": "What service level applies to human review of middle-band predictions?",
+      "answer": "Four business hours.",
+      "evidence": "routed to a human reviewer with a service level of four business hours",
+      "source_id": "DAT-STD-017",
+      "source_file": "pdfs/DAT-STD-017-machine-learning-model-governance-standard.pdf",
+      "source_title": "Machine Learning Model Governance Standard",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-017-QA04",
+      "question": "Which two features were found to act as proxies for protected attributes?",
+      "answer": "Postcode and device tier.",
+      "evidence": "Postcode and device tier have previously acted as proxies for protected attributes",
+      "source_id": "DAT-STD-017",
+      "source_file": "pdfs/DAT-STD-017-machine-learning-model-governance-standard.pdf",
+      "source_title": "Machine Learning Model Governance Standard",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-017-QA05",
+      "question": "How long are late labels backfilled before outcome drift is trusted?",
+      "answer": "30 days.",
+      "evidence": "Labels that arrive late are backfilled for 30 days before outcome drift is trusted",
+      "source_id": "DAT-STD-017",
+      "source_file": "pdfs/DAT-STD-017-machine-learning-model-governance-standard.pdf",
+      "source_title": "Machine Learning Model Governance Standard",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-021-QA01",
+      "question": "Which warehouse layer are consumers allowed to query?",
+      "answer": "Mart only; source and staging must not be queried directly.",
+      "evidence": "Mart is dimensional, wide, and the only layer consumers read",
+      "source_id": "DAT-STD-021",
+      "source_file": "pdfs/DAT-STD-021-data-warehouse-modelling-conventions.pdf",
+      "source_title": "Data Warehouse Modelling Conventions",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-021-QA02",
+      "question": "Which fact type is the only mutable one?",
+      "answer": "Accumulating snapshot facts.",
+      "evidence": "which makes them the only mutable fact type",
+      "source_id": "DAT-STD-021",
+      "source_file": "pdfs/DAT-STD-021-data-warehouse-modelling-conventions.pdf",
+      "source_title": "Data Warehouse Modelling Conventions",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-021-QA03",
+      "question": "What suffix must timestamp columns use and in what timezone are they stored?",
+      "answer": "_at, stored in UTC.",
+      "evidence": "timestamps end in _at and are stored in UTC",
+      "source_id": "DAT-STD-021",
+      "source_file": "pdfs/DAT-STD-021-data-warehouse-modelling-conventions.pdf",
+      "source_title": "Data Warehouse Modelling Conventions",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-021-QA04",
+      "question": "What triggers a model to be flagged in the weekly cost report?",
+      "answer": "Scanning more than 100 gigabytes per run.",
+      "evidence": "A model that scans more than 100 gigabytes per run is flagged in the weekly cost report",
+      "source_id": "DAT-STD-021",
+      "source_file": "pdfs/DAT-STD-021-data-warehouse-modelling-conventions.pdf",
+      "source_title": "Data Warehouse Modelling Conventions",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "DAT-STD-021-QA05",
+      "question": "How are late-arriving dimension records handled?",
+      "answer": "By inserting the historical row and re-pointing affected facts via a scheduled backfill, never ad hoc.",
+      "evidence": "handled by inserting the historical row and re-pointing affected facts, which is run as a scheduled backfill",
+      "source_id": "DAT-STD-021",
+      "source_file": "pdfs/DAT-STD-021-data-warehouse-modelling-conventions.pdf",
+      "source_title": "Data Warehouse Modelling Conventions",
+      "category": "Data and Analytics"
+    },
+    {
+      "id": "SUP-SOP-003-QA01",
+      "question": "What is the Sev 1 first response commitment for Enterprise customers?",
+      "answer": "30 minutes.",
+      "evidence": "Enterprise | 24x5 for Sev 1-2 | 30 minutes",
+      "source_id": "SUP-SOP-003",
+      "source_file": "pdfs/SUP-SOP-003-support-triage-and-escalation-procedure.pdf",
+      "source_title": "Support Triage and Escalation Procedure",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-SOP-003-QA02",
+      "question": "How often must a Sev 1 ticket be updated?",
+      "answer": "Every hour.",
+      "evidence": "Sev 1 ... 30 minutes | Every hour",
+      "source_id": "SUP-SOP-003",
+      "source_file": "pdfs/SUP-SOP-003-support-triage-and-escalation-procedure.pdf",
+      "source_title": "Support Triage and Escalation Procedure",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-SOP-003-QA03",
+      "question": "What triggers a churn-risk escalation?",
+      "answer": "Account health score below 60, three Sev 1 tickets in 30 days, or explicit cancellation intent.",
+      "evidence": "account health score falling below 60, by three Sev 1 tickets in 30 days, or by an explicit cancellation intent",
+      "source_id": "SUP-SOP-003",
+      "source_file": "pdfs/SUP-SOP-003-support-triage-and-escalation-procedure.pdf",
+      "source_title": "Support Triage and Escalation Procedure",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-SOP-003-QA04",
+      "question": "How long before a needs-information ticket is closed?",
+      "answer": "14 days of silence, with reminders at 3 and 10 days.",
+      "evidence": "an automatic reminder at 3 days and 10 days, then closed at 14 days of silence",
+      "source_id": "SUP-SOP-003",
+      "source_file": "pdfs/SUP-SOP-003-support-triage-and-escalation-procedure.pdf",
+      "source_title": "Support Triage and Escalation Procedure",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-SOP-003-QA05",
+      "question": "Within how long must an executive escalation be acknowledged?",
+      "answer": "30 minutes, regardless of severity.",
+      "evidence": "acknowledged within 30 minutes regardless of severity",
+      "source_id": "SUP-SOP-003",
+      "source_file": "pdfs/SUP-SOP-003-support-triage-and-escalation-procedure.pdf",
+      "source_title": "Support Triage and Escalation Procedure",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-KB-007-QA01",
+      "question": "Which two response headers diagnose stale published content?",
+      "answer": "x-nw-version and x-nw-cache.",
+      "evidence": "The x-nw-version header identifies which artefact version the edge served, and the x-nw-cache header states HIT, MISS, or BYPASS",
+      "source_id": "SUP-KB-007",
+      "source_file": "pdfs/SUP-KB-007-troubleshooting-guide-publishing-and-cdn-cache-issues.pdf",
+      "source_title": "Troubleshooting Guide: Publishing and CDN Cache Issues",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-KB-007-QA02",
+      "question": "What share of publish tickets do the eight common causes cover?",
+      "answer": "84 percent.",
+      "evidence": "The eight causes below account for 84 percent of publish-related tickets",
+      "source_id": "SUP-KB-007",
+      "source_file": "pdfs/SUP-KB-007-troubleshooting-guide-publishing-and-cdn-cache-issues.pdf",
+      "source_title": "Troubleshooting Guide: Publishing and CDN Cache Issues",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-KB-007-QA03",
+      "question": "Why can a publish report success while content stays stale?",
+      "answer": "Because success is reported when Deploy completes, so Invalidate or Verify may still have failed.",
+      "evidence": "A publish is reported successful when Deploy completes",
+      "source_id": "SUP-KB-007",
+      "source_file": "pdfs/SUP-KB-007-troubleshooting-guide-publishing-and-cdn-cache-issues.pdf",
+      "source_title": "Troubleshooting Guide: Publishing and CDN Cache Issues",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-KB-007-QA04",
+      "question": "What is the most frequent root cause of stale content?",
+      "answer": "Browser or service worker cache, at 26 percent.",
+      "evidence": "Browser or service worker cache | 26 percent",
+      "source_id": "SUP-KB-007",
+      "source_file": "pdfs/SUP-KB-007-troubleshooting-guide-publishing-and-cdn-cache-issues.pdf",
+      "source_title": "Troubleshooting Guide: Publishing and CDN Cache Issues",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-KB-007-QA05",
+      "question": "What defect number applies to wildcard path purge failures?",
+      "answer": "NW-4412.",
+      "evidence": "Targeted purge, then file defect NW-4412",
+      "source_id": "SUP-KB-007",
+      "source_file": "pdfs/SUP-KB-007-troubleshooting-guide-publishing-and-cdn-cache-issues.pdf",
+      "source_title": "Troubleshooting Guide: Publishing and CDN Cache Issues",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-012-QA01",
+      "question": "What contract value triggers high-touch onboarding?",
+      "answer": "Above 50,000 USD annual value, or a migration of more than 500 pages.",
+      "evidence": "High-touch onboarding is assigned to accounts above 50,000 USD annual value or with a migration of more than 500 pages",
+      "source_id": "SUP-STD-012",
+      "source_file": "pdfs/SUP-STD-012-customer-success-onboarding-standard.pdf",
+      "source_title": "Customer Success Onboarding Standard",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-012-QA02",
+      "question": "What renewal rate is associated with three active authors by day 45?",
+      "answer": "94 percent.",
+      "evidence": "Accounts that reach three active authors by day 45 renew at 94 percent",
+      "source_id": "SUP-STD-012",
+      "source_file": "pdfs/SUP-STD-012-customer-success-onboarding-standard.pdf",
+      "source_title": "Customer Success Onboarding Standard",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-012-QA03",
+      "question": "What is the current median time to value for high-touch accounts?",
+      "answer": "34 days.",
+      "evidence": "The current median is 34 days for high-touch and 51 days for tech-touch",
+      "source_id": "SUP-STD-012",
+      "source_file": "pdfs/SUP-STD-012-customer-success-onboarding-standard.pdf",
+      "source_title": "Customer Success Onboarding Standard",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-012-QA04",
+      "question": "What weight does adoption breadth carry in the health score?",
+      "answer": "30 of 100.",
+      "evidence": "Weights are adoption 30, depth 25, support 20, sponsor 15, proximity 10",
+      "source_id": "SUP-STD-012",
+      "source_file": "pdfs/SUP-STD-012-customer-success-onboarding-standard.pdf",
+      "source_title": "Customer Success Onboarding Standard",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-012-QA05",
+      "question": "Within how many business days must the sales-to-success handover occur?",
+      "answer": "3 business days of signature.",
+      "evidence": "The sales-to-success handover happens within 3 business days of signature",
+      "source_id": "SUP-STD-012",
+      "source_file": "pdfs/SUP-STD-012-customer-success-onboarding-standard.pdf",
+      "source_title": "Customer Success Onboarding Standard",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-018-QA01",
+      "question": "What availability does Northwind commit to monthly?",
+      "answer": "99.9 percent for content delivery and editing, measured separately.",
+      "evidence": "Northwind commits to 99.9 percent monthly availability for the content delivery and editing services",
+      "source_id": "SUP-STD-018",
+      "source_file": "pdfs/SUP-STD-018-service-level-agreement-framework.pdf",
+      "source_title": "Service Level Agreement Framework",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-018-QA02",
+      "question": "How much downtime does 99.9 percent permit in a 30-day month?",
+      "answer": "43 minutes and 49 seconds.",
+      "evidence": "99.9 percent permits 43 minutes and 49 seconds of unavailability in a 30-day month",
+      "source_id": "SUP-STD-018",
+      "source_file": "pdfs/SUP-STD-018-service-level-agreement-framework.pdf",
+      "source_title": "Service Level Agreement Framework",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-018-QA03",
+      "question": "What is the service credit for availability between 99.0 and 99.9 percent?",
+      "answer": "10 percent of the monthly fee.",
+      "evidence": "99.0 to 99.9 percent | Up to 7 h 12 m | 10 percent of monthly fee",
+      "source_id": "SUP-STD-018",
+      "source_file": "pdfs/SUP-STD-018-service-level-agreement-framework.pdf",
+      "source_title": "Service Level Agreement Framework",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-018-QA04",
+      "question": "How far in advance must notifiable maintenance be announced?",
+      "answer": "At least 72 hours, capped at 4 hours per month.",
+      "evidence": "notifiable maintenance announced at least 72 hours in advance",
+      "source_id": "SUP-STD-018",
+      "source_file": "pdfs/SUP-STD-018-service-level-agreement-framework.pdf",
+      "source_title": "Service Level Agreement Framework",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-018-QA05",
+      "question": "What repeated-breach condition gives a customer a termination right?",
+      "answer": "Three months below commitment in a rolling six.",
+      "evidence": "three months below commitment in a rolling six, give the customer a termination right without penalty",
+      "source_id": "SUP-STD-018",
+      "source_file": "pdfs/SUP-STD-018-service-level-agreement-framework.pdf",
+      "source_title": "Service Level Agreement Framework",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-024-QA01",
+      "question": "What is Northwind's current NPS score and response rate?",
+      "answer": "NPS 41 with a 34 percent response rate.",
+      "evidence": "The current score is 41 with a 34 percent response rate",
+      "source_id": "SUP-STD-024",
+      "source_file": "pdfs/SUP-STD-024-voice-of-customer-and-feedback-loop-standard.pdf",
+      "source_title": "Voice of Customer and Feedback Loop Standard",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-024-QA02",
+      "question": "How quickly must customers be notified when their feedback ships?",
+      "answer": "Within 10 business days of general availability.",
+      "evidence": "notified within 10 business days of general availability",
+      "source_id": "SUP-STD-024",
+      "source_file": "pdfs/SUP-STD-024-voice-of-customer-and-feedback-loop-standard.pdf",
+      "source_title": "Voice of Customer and Feedback Loop Standard",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-024-QA03",
+      "question": "What is the current CSAT mean?",
+      "answer": "4.3 on a five-point scale.",
+      "evidence": "reported as a five-point mean, currently 4.3",
+      "source_id": "SUP-STD-024",
+      "source_file": "pdfs/SUP-STD-024-voice-of-customer-and-feedback-loop-standard.pdf",
+      "source_title": "Voice of Customer and Feedback Loop Standard",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-024-QA04",
+      "question": "What minimum CSAT responses are required before reporting an individual agent?",
+      "answer": "20 responses in the period.",
+      "evidence": "a minimum of 20 responses in the period is required before an agent's score is reported",
+      "source_id": "SUP-STD-024",
+      "source_file": "pdfs/SUP-STD-024-voice-of-customer-and-feedback-loop-standard.pdf",
+      "source_title": "Voice of Customer and Feedback Loop Standard",
+      "category": "Customer Support"
+    },
+    {
+      "id": "SUP-STD-024-QA05",
+      "question": "When does the monthly Voice of Customer review occur?",
+      "answer": "The second Thursday of each month.",
+      "evidence": "The Voice of Customer review runs on the second Thursday of each month",
+      "source_id": "SUP-STD-024",
+      "source_file": "pdfs/SUP-STD-024-voice-of-customer-and-feedback-loop-standard.pdf",
+      "source_title": "Voice of Customer and Feedback Loop Standard",
+      "category": "Customer Support"
+    },
+    {
+      "id": "ENG-STD-001-QA01",
+      "question": "How many approvers are required for a security-relevant change?",
+      "answer": "Two, with a reviewer outside the author's squad.",
+      "evidence": "Security-relevant | 2 | Yes | Merge commit",
+      "source_id": "ENG-STD-001",
+      "source_file": "pdfs/ENG-STD-001-engineering-code-review-standard.pdf",
+      "source_title": "Engineering Code Review Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-001-QA02",
+      "question": "What is the target median code review turnaround?",
+      "answer": "4 business hours.",
+      "evidence": "Median review turnaround is targeted at 4 business hours",
+      "source_id": "ENG-STD-001",
+      "source_file": "pdfs/ENG-STD-001-engineering-code-review-standard.pdf",
+      "source_title": "Engineering Code Review Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-001-QA03",
+      "question": "After how many business days is a pull request considered stale?",
+      "answer": "5 business days.",
+      "evidence": "A pull request open longer than 5 business days is flagged in the weekly report as stale",
+      "source_id": "ENG-STD-001",
+      "source_file": "pdfs/ENG-STD-001-engineering-code-review-standard.pdf",
+      "source_title": "Engineering Code Review Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-001-QA04",
+      "question": "What is the current company rubber-stamp review rate?",
+      "answer": "6 percent.",
+      "evidence": "the current company rate is 6 percent",
+      "source_id": "ENG-STD-001",
+      "source_file": "pdfs/ENG-STD-001-engineering-code-review-standard.pdf",
+      "source_title": "Engineering Code Review Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-001-QA05",
+      "question": "What revert rate triggers a review of a squad's testing approach?",
+      "answer": "Above 5 percent.",
+      "evidence": "A revert rate above 5 percent triggers a review of the squad's testing approach",
+      "source_id": "ENG-STD-001",
+      "source_file": "pdfs/ENG-STD-001-engineering-code-review-standard.pdf",
+      "source_title": "Engineering Code Review Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-006-QA01",
+      "question": "What pagination scheme must Northwind public collections use?",
+      "answer": "Cursor pagination with an opaque cursor, default limit 50, maximum 200.",
+      "evidence": "All collections are paginated with cursor pagination using an opaque cursor and a limit parameter defaulting to 50 with a maximum of 200",
+      "source_id": "ENG-STD-006",
+      "source_file": "pdfs/ENG-STD-006-api-design-guidelines.pdf",
+      "source_title": "API Design Guidelines",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-006-QA02",
+      "question": "How long are old major API versions supported after the successor ships?",
+      "answer": "18 months.",
+      "evidence": "Old major versions are supported for 18 months after the new version's general availability",
+      "source_id": "ENG-STD-006",
+      "source_file": "pdfs/ENG-STD-006-api-design-guidelines.pdf",
+      "source_title": "API Design Guidelines",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-006-QA03",
+      "question": "How long are idempotency responses stored for replay?",
+      "answer": "24 hours.",
+      "evidence": "store the response for 24 hours, and replay it on retry",
+      "source_id": "ENG-STD-006",
+      "source_file": "pdfs/ENG-STD-006-api-design-guidelines.pdf",
+      "source_title": "API Design Guidelines",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-006-QA04",
+      "question": "What is the minimum notice before removing a deprecated public endpoint?",
+      "answer": "180 days, with Deprecation and Sunset headers.",
+      "evidence": "a minimum of 180 days before removal",
+      "source_id": "ENG-STD-006",
+      "source_file": "pdfs/ENG-STD-006-api-design-guidelines.pdf",
+      "source_title": "API Design Guidelines",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-006-QA05",
+      "question": "What traffic level blocks removing an endpoint without an Executive Staff decision?",
+      "answer": "More than 0.1 percent of traffic.",
+      "evidence": "An endpoint may not be removed while it carries more than 0.1 percent of traffic without an Executive Staff decision",
+      "source_id": "ENG-STD-006",
+      "source_file": "pdfs/ENG-STD-006-api-design-guidelines.pdf",
+      "source_title": "API Design Guidelines",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-011-QA01",
+      "question": "What is the target unit to integration to e2e test ratio?",
+      "answer": "Roughly 70 percent unit, 20 percent integration, 10 percent end-to-end.",
+      "evidence": "Northwind targets roughly 70 percent unit tests, 20 percent integration tests, and 10 percent end-to-end tests by count",
+      "source_id": "ENG-STD-011",
+      "source_file": "pdfs/ENG-STD-011-testing-strategy-and-quality-gates.pdf",
+      "source_title": "Testing Strategy and Quality Gates",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-011-QA02",
+      "question": "What coverage threshold blocks a merge?",
+      "answer": "80 percent of changed lines, applied as a delta gate.",
+      "evidence": "requiring 80 percent of changed lines to be covered",
+      "source_id": "ENG-STD-011",
+      "source_file": "pdfs/ENG-STD-011-testing-strategy-and-quality-gates.pdf",
+      "source_title": "Testing Strategy and Quality Gates",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-011-QA03",
+      "question": "After how many failures is a test quarantined as flaky?",
+      "answer": "Two failures in the last 20 runs.",
+      "evidence": "quarantined automatically after two failures in the last 20 runs",
+      "source_id": "ENG-STD-011",
+      "source_file": "pdfs/ENG-STD-011-testing-strategy-and-quality-gates.pdf",
+      "source_title": "Testing Strategy and Quality Gates",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-011-QA04",
+      "question": "What is the company-wide quarantine budget for the test suite?",
+      "answer": "3 percent of the suite.",
+      "evidence": "The company quarantine budget is 3 percent of the suite",
+      "source_id": "ENG-STD-011",
+      "source_file": "pdfs/ENG-STD-011-testing-strategy-and-quality-gates.pdf",
+      "source_title": "Testing Strategy and Quality Gates",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-011-QA05",
+      "question": "Which user journeys are covered by end-to-end tests?",
+      "answer": "Sign in, create page, publish page, submit form, and upgrade plan.",
+      "evidence": "sign in, create page, publish page, submit form, and upgrade plan",
+      "source_id": "ENG-STD-011",
+      "source_file": "pdfs/ENG-STD-011-testing-strategy-and-quality-gates.pdf",
+      "source_title": "Testing Strategy and Quality Gates",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-017-QA01",
+      "question": "What trace sampling rate applies to errors?",
+      "answer": "100 percent, versus 10 percent for normal traffic.",
+      "evidence": "sampled at 10 percent normally and 100 percent for errors",
+      "source_id": "ENG-STD-017",
+      "source_file": "pdfs/ENG-STD-017-observability-and-on-call-standard.pdf",
+      "source_title": "Observability and On-Call Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-017-QA02",
+      "question": "What is the weekly page budget per on-call engineer?",
+      "answer": "Four pages per engineer per week.",
+      "evidence": "Pages are budgeted at four per engineer per week",
+      "source_id": "ENG-STD-017",
+      "source_file": "pdfs/ENG-STD-017-observability-and-on-call-standard.pdf",
+      "source_title": "Observability and On-Call Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-017-QA03",
+      "question": "How long may metrics be retained at full resolution for Tier 1 services?",
+      "answer": "13 months.",
+      "evidence": "Metrics are kept 13 months at full resolution for Tier 1 services",
+      "source_id": "ENG-STD-017",
+      "source_file": "pdfs/ENG-STD-017-observability-and-on-call-standard.pdf",
+      "source_title": "Observability and On-Call Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-017-QA04",
+      "question": "What is the minimum team size required to run an on-call rotation?",
+      "answer": "Six engineers.",
+      "evidence": "On-call rotates weekly with a minimum team size of six",
+      "source_id": "ENG-STD-017",
+      "source_file": "pdfs/ENG-STD-017-observability-and-on-call-standard.pdf",
+      "source_title": "Observability and On-Call Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-017-QA05",
+      "question": "Within how many business days must a post-incident review be held for SEV-1 or SEV-2?",
+      "answer": "Five business days of recovery.",
+      "evidence": "held within five business days of recovery for SEV-1 and SEV-2",
+      "source_id": "ENG-STD-017",
+      "source_file": "pdfs/ENG-STD-017-observability-and-on-call-standard.pdf",
+      "source_title": "Observability and On-Call Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-023-QA01",
+      "question": "What are the canary rollout stages and hold times?",
+      "answer": "1 percent for 10 minutes, 10 percent for 20 minutes, then 100 percent.",
+      "evidence": "a canary at 1 percent for 10 minutes, then 10 percent for 20 minutes, then 100 percent",
+      "source_id": "ENG-STD-023",
+      "source_file": "pdfs/ENG-STD-023-deployment-and-release-engineering-standard.pdf",
+      "source_title": "Deployment and Release Engineering Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-023-QA02",
+      "question": "When does an automatic rollback trigger during a canary?",
+      "answer": "When the error rate exceeds baseline by more than 1 percentage point for three consecutive minutes.",
+      "evidence": "error rate exceeds baseline by more than 1 percentage point for three consecutive minutes",
+      "source_id": "ENG-STD-023",
+      "source_file": "pdfs/ENG-STD-023-deployment-and-release-engineering-standard.pdf",
+      "source_title": "Deployment and Release Engineering Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-023-QA03",
+      "question": "What is the maximum lifetime of a release feature flag?",
+      "answer": "90 days.",
+      "evidence": "Release flag, hides incomplete work | 90 days",
+      "source_id": "ENG-STD-023",
+      "source_file": "pdfs/ENG-STD-023-deployment-and-release-engineering-standard.pdf",
+      "source_title": "Deployment and Release Engineering Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-023-QA04",
+      "question": "When are production deployments permitted?",
+      "answer": "Monday to Thursday, 09:00 to 16:00 Eastern.",
+      "evidence": "Deploys to production run Monday to Thursday between 09:00 and 16:00 Eastern",
+      "source_id": "ENG-STD-023",
+      "source_file": "pdfs/ENG-STD-023-deployment-and-release-engineering-standard.pdf",
+      "source_title": "Deployment and Release Engineering Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "ENG-STD-023-QA05",
+      "question": "What is the target change failure rate?",
+      "answer": "Below 15 percent.",
+      "evidence": "a change failure rate target below 15 percent",
+      "source_id": "ENG-STD-023",
+      "source_file": "pdfs/ENG-STD-023-deployment-and-release-engineering-standard.pdf",
+      "source_title": "Deployment and Release Engineering Standard",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "MKT-PLN-002-QA01",
+      "question": "Which content pillar has the highest conversion rate?",
+      "answer": "Comparisons and alternatives, at 6.4 percent.",
+      "evidence": "Comparisons and alternatives | 20 percent | Evaluator | Organic, paid | 6.4 percent",
+      "source_id": "MKT-PLN-002",
+      "source_file": "pdfs/MKT-PLN-002-content-strategy-and-editorial-plan.pdf",
+      "source_title": "Content Strategy and Editorial Plan",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-PLN-002-QA02",
+      "question": "What is the year-end organic sessions target?",
+      "answer": "340,000 per month, up from 218,000.",
+      "evidence": "Organic sessions target 340,000 per month by year end, up from 218,000",
+      "source_id": "MKT-PLN-002",
+      "source_file": "pdfs/MKT-PLN-002-content-strategy-and-editorial-plan.pdf",
+      "source_title": "Content Strategy and Editorial Plan",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-PLN-002-QA03",
+      "question": "How many long-form articles are committed per month?",
+      "answer": "8 long-form articles at 1,800 words or more.",
+      "evidence": "The plan commits to 8 long-form articles per month at 1,800 words or more",
+      "source_id": "MKT-PLN-002",
+      "source_file": "pdfs/MKT-PLN-002-content-strategy-and-editorial-plan.pdf",
+      "source_title": "Content Strategy and Editorial Plan",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-PLN-002-QA04",
+      "question": "What is the current newsletter subscriber count?",
+      "answer": "24,300 subscribers.",
+      "evidence": "1 newsletter per week, Thursday, currently 24,300 subscribers",
+      "source_id": "MKT-PLN-002",
+      "source_file": "pdfs/MKT-PLN-002-content-strategy-and-editorial-plan.pdf",
+      "source_title": "Content Strategy and Editorial Plan",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-PLN-002-QA05",
+      "question": "Which metric is currently flagged as at risk?",
+      "answer": "Cost per organic session, at 0.98 USD against a 0.85 USD target.",
+      "evidence": "Cost per organic session | 1.10 USD | 0.85 USD | 0.98 USD | At risk",
+      "source_id": "MKT-PLN-002",
+      "source_file": "pdfs/MKT-PLN-002-content-strategy-and-editorial-plan.pdf",
+      "source_title": "Content Strategy and Editorial Plan",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-PLN-008-QA01",
+      "question": "What is the annual demand generation budget?",
+      "answer": "3.4 million USD.",
+      "evidence": "The annual demand generation budget is 3.4 million USD",
+      "source_id": "MKT-PLN-008",
+      "source_file": "pdfs/MKT-PLN-008-demand-generation-and-paid-acquisition-playbook.pdf",
+      "source_title": "Demand Generation and Paid Acquisition Playbook",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-PLN-008-QA02",
+      "question": "Which funnel stage is currently below benchmark?",
+      "answer": "Trial to activated, at 38 percent against a 45 percent benchmark.",
+      "evidence": "Trial to activated | 45 percent | 38 percent | -7.0 | Product",
+      "source_id": "MKT-PLN-008",
+      "source_file": "pdfs/MKT-PLN-008-demand-generation-and-paid-acquisition-playbook.pdf",
+      "source_title": "Demand Generation and Paid Acquisition Playbook",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-PLN-008-QA03",
+      "question": "What is the target CPA for paid search?",
+      "answer": "420 USD.",
+      "evidence": "Paid search | 42 percent | 420 USD | 448 USD",
+      "source_id": "MKT-PLN-008",
+      "source_file": "pdfs/MKT-PLN-008-demand-generation-and-paid-acquisition-playbook.pdf",
+      "source_title": "Demand Generation and Paid Acquisition Playbook",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-PLN-008-QA04",
+      "question": "What attribution model does Northwind use for reporting?",
+      "answer": "Position-based: 40 percent first touch, 40 percent last touch, 20 percent distributed across the middle.",
+      "evidence": "Reporting uses a position-based model, with 40 percent credited to first touch, 40 percent to last touch, and 20 percent distributed across the middle",
+      "source_id": "MKT-PLN-008",
+      "source_file": "pdfs/MKT-PLN-008-demand-generation-and-paid-acquisition-playbook.pdf",
+      "source_title": "Demand Generation and Paid Acquisition Playbook",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-PLN-008-QA05",
+      "question": "What is the minimum conversions per arm before a test conclusion?",
+      "answer": "100 conversions per arm at 95 percent significance.",
+      "evidence": "A minimum of 100 conversions per arm is required before a conclusion, and the significance threshold is 95 percent",
+      "source_id": "MKT-PLN-008",
+      "source_file": "pdfs/MKT-PLN-008-demand-generation-and-paid-acquisition-playbook.pdf",
+      "source_title": "Demand Generation and Paid Acquisition Playbook",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-014-QA01",
+      "question": "Which four words are banned from Northwind customer-facing copy?",
+      "answer": "Innovative, seamless, cutting-edge, and robust.",
+      "evidence": "Four words are banned from customer-facing copy because they signal vagueness: innovative, seamless, cutting-edge, and robust",
+      "source_id": "MKT-STD-014",
+      "source_file": "pdfs/MKT-STD-014-brand-guidelines-and-messaging-standard.pdf",
+      "source_title": "Brand Guidelines and Messaging Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-014-QA02",
+      "question": "What is the hex value of Northwind Navy?",
+      "answer": "#1F3A5F.",
+      "evidence": "Northwind Navy #1F3A5F",
+      "source_id": "MKT-STD-014",
+      "source_file": "pdfs/MKT-STD-014-brand-guidelines-and-messaging-standard.pdf",
+      "source_title": "Brand Guidelines and Messaging Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-014-QA03",
+      "question": "What minimum contrast ratio is required for body text?",
+      "answer": "4.5 to 1.",
+      "evidence": "Minimum contrast is 4.5 to 1 for body text and 3 to 1 for large text",
+      "source_id": "MKT-STD-014",
+      "source_file": "pdfs/MKT-STD-014-brand-guidelines-and-messaging-standard.pdf",
+      "source_title": "Brand Guidelines and Messaging Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-014-QA04",
+      "question": "How is logo clear space defined?",
+      "answer": "Equal to the height of the N in the wordmark.",
+      "evidence": "The clear space around the logo equals the height of the N in the wordmark",
+      "source_id": "MKT-STD-014",
+      "source_file": "pdfs/MKT-STD-014-brand-guidelines-and-messaging-standard.pdf",
+      "source_title": "Brand Guidelines and Messaging Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-014-QA05",
+      "question": "What body font and size does the brand system specify?",
+      "answer": "Inter at 16 pixels with a line height of 1.6.",
+      "evidence": "Body text is set in Inter at 16 pixels with a line height of 1.6",
+      "source_id": "MKT-STD-014",
+      "source_file": "pdfs/MKT-STD-014-brand-guidelines-and-messaging-standard.pdf",
+      "source_title": "Brand Guidelines and Messaging Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-019-QA01",
+      "question": "How long is consent state retained?",
+      "answer": "13 months, with an audit record.",
+      "evidence": "consent state is stored for 13 months with an audit record",
+      "source_id": "MKT-STD-019",
+      "source_file": "pdfs/MKT-STD-019-marketing-analytics-and-attribution-standard.pdf",
+      "source_title": "Marketing Analytics and Attribution Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-019-QA02",
+      "question": "How many distinct utm_medium values are permitted?",
+      "answer": "A fixed list of 14.",
+      "evidence": "Medium values come from a fixed list of 14",
+      "source_id": "MKT-STD-019",
+      "source_file": "pdfs/MKT-STD-019-marketing-analytics-and-attribution-standard.pdf",
+      "source_title": "Marketing Analytics and Attribution Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-019-QA03",
+      "question": "What is the current MQL to opportunity conversion rate?",
+      "answer": "31 percent.",
+      "evidence": "the current rate is 31 percent",
+      "source_id": "MKT-STD-019",
+      "source_file": "pdfs/MKT-STD-019-marketing-analytics-and-attribution-standard.pdf",
+      "source_title": "Marketing Analytics and Attribution Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-019-QA04",
+      "question": "What minimum UTM coverage is required before publishing a report?",
+      "answer": "95 percent of sessions.",
+      "evidence": "UTM coverage above 95 percent of sessions",
+      "source_id": "MKT-STD-019",
+      "source_file": "pdfs/MKT-STD-019-marketing-analytics-and-attribution-standard.pdf",
+      "source_title": "Marketing Analytics and Attribution Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-019-QA05",
+      "question": "What tolerance does the daily anomaly check use?",
+      "answer": "30 percent against a 28-day same-weekday baseline.",
+      "evidence": "compares yesterday against a 28-day same-weekday baseline with a 30 percent tolerance",
+      "source_id": "MKT-STD-019",
+      "source_file": "pdfs/MKT-STD-019-marketing-analytics-and-attribution-standard.pdf",
+      "source_title": "Marketing Analytics and Attribution Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-026-QA01",
+      "question": "How many competitor battlecards does Northwind maintain?",
+      "answer": "Nine.",
+      "evidence": "A battlecard exists for each of the nine named competitors",
+      "source_id": "MKT-STD-026",
+      "source_file": "pdfs/MKT-STD-026-sales-enablement-and-competitive-positioning-standard.pdf",
+      "source_title": "Sales Enablement and Competitive Positioning Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-026-QA02",
+      "question": "What is the certification pass mark?",
+      "answer": "80 percent, with 85 percent for discovery and 90 percent for pricing guardrails.",
+      "evidence": "The pass mark is 80 percent, and certification expires after 12 months",
+      "source_id": "MKT-STD-026",
+      "source_file": "pdfs/MKT-STD-026-sales-enablement-and-competitive-positioning-standard.pdf",
+      "source_title": "Sales Enablement and Competitive Positioning Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-026-QA03",
+      "question": "Who conducts win-loss interviews?",
+      "answer": "A neutral third party rather than the rep.",
+      "evidence": "conducted by a neutral third party rather than the rep",
+      "source_id": "MKT-STD-026",
+      "source_file": "pdfs/MKT-STD-026-sales-enablement-and-competitive-positioning-standard.pdf",
+      "source_title": "Sales Enablement and Competitive Positioning Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-026-QA04",
+      "question": "What share of the enablement library is unused for 180 days?",
+      "answer": "Roughly 30 percent.",
+      "evidence": "Roughly 30 percent of the library has not been opened in 180 days",
+      "source_id": "MKT-STD-026",
+      "source_file": "pdfs/MKT-STD-026-sales-enablement-and-competitive-positioning-standard.pdf",
+      "source_title": "Sales Enablement and Competitive Positioning Standard",
+      "category": "Marketing"
+    },
+    {
+      "id": "MKT-STD-026-QA05",
+      "question": "After how many days is a battlecard marked stale?",
+      "answer": "90 days.",
+      "evidence": "A card older than 90 days is marked stale in the enablement library",
+      "source_id": "MKT-STD-026",
+      "source_file": "pdfs/MKT-STD-026-sales-enablement-and-competitive-positioning-standard.pdf",
+      "source_title": "Sales Enablement and Competitive Positioning Standard",
+      "category": "Marketing"
+    }
+  ]
+}
